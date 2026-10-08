@@ -20,6 +20,14 @@
 <!-- #### 모든 수정사항은 [여기](./version_history.md) 에서 확인이 가능합니다. -->
 
 
+## DLC9 (Ashes & Ascension) 대응 - 게임 버전 1.15.398
+- 언어 파일(`ko-KR`, `ko-KP`)을 게임 1.15.398의 영문 원본 기준으로 재구성했습니다. (47,065개 항목)
+- 기존 번역 38,142개는 그대로 유지하고, 문자열 테이블로 이동된 항목 801개는 기존 번역을 재사용했습니다.
+- DLC9 캠페인 브리핑/대사/시네마틱 자막, 신규 메크 설명, 신규 무기·장비, 파일럿 특성·쿼크, 인물명 등 1,881개 항목(고유 문장 1,360개)을 새로 번역했습니다.
+  - 추가 번역 원문/번역문 목록: [`translations/DLC9_1.15.398_additions.json`](./translations/DLC9_1.15.398_additions.json)
+- 항성계 이름, 메크 섀시/파생형 이름, 무작위 파일럿 성씨는 기존 패치와 같이 영문으로 둡니다.
+- `tools/locres.py` : UE4 `.locres` (v0~v3) 읽기/쓰기용 파이썬 모듈
+
 ## ※멕워리어5 한글패치 참여방법
 ### [멕워리어5 한글패치 스프레드시트](https://docs.google.com/spreadsheets/d/1wsApuxcBJIi7p4p7p4AkVqx9v3-axuONpd8sKDd26Rg/edit#gid=0)
 ### 디스코드: https://discord.gg/c5MeTpQ8D6 에 접속하셔서 확인 부탁드립니다!
