@@ -23,9 +23,11 @@
 ## 이 포크에 대하여 - 모드 병용 대응판
 [원본 저장소](https://github.com/angel606k/Mechwarrior-5-Korean-Localization)의 20261009판(DLC Ashes and Ascension 대응)을 그대로 바탕으로 하고, 다른 모드와 함께 쓸 때 문장이 영문으로 나오는 문제만 보완한 포크입니다.
 - 원본 20261009의 47,065개 문장은 번역문을 하나도 바꾸지 않았습니다.
-- 모드가 게임 문구를 다른 키로 담고 있어 번역이 연결되지 않던 1,284개 키를 추가했습니다. (YetAnotherMechlab 1,158 / TTRulez_AIMod2 60 / DelayedDeadlines 32 / ModOptions 31 / MarketplaceQOL 3)
+- 모드가 게임 문구를 다른 키로 담고 있어 번역이 연결되지 않던 1,296개 키를 추가했습니다. (YetAnotherMechlab 1,156 / TTRulez_AIMod2 60 / DelayedDeadlines 32 / ModOptions 30 / PurchaseSalvage 13 / MarketplaceQOL 3 / StarMapTipsEnhanced 2)
 - 게임 에셋에는 있지만 공식 언어 파일에 없는 373개 키를 추가했습니다.
-- 추가한 키의 번역문은 영문이 같은 원본 번역을 재사용했습니다. 모드 고유 문구는 번역하지 않았습니다.
+- 추가한 키의 번역문은 영문이 같은 원본 번역을 재사용했습니다.
+- 모드 고유 문구 470문장(753개 키)을 AI(Claude)로 번역해 추가했습니다. 대부분 YetAnotherMechlab의 메크랩 UI, 장비·엔진·자이로 설명, 설정 화면이며, TTRulez_AIMod2·ModOptions·MarketplaceQOL·PurchaseSalvage 문구도 포함됩니다. 사람의 검수를 거치지 않았습니다. 원문·번역문 목록: [`translations/mod_texts_ko.json`](./translations/mod_texts_ko.json)
+- 모드용 키는 해당 모드가 설치되어 있을 때만 게임이 찾아 쓰므로, 모드가 없으면 아무 영향이 없습니다.
 - 에셋과 언어 파일의 원문이 어긋난 2개 키의 원문 해시를 에셋 기준으로 맞췄습니다.
 - `mod.json`, 폰트, EULA 파일은 원본 그대로입니다.
 - `tools/locres.py` : UE4 `.locres` (v0~v3) 읽기/쓰기용 파이썬 모듈
