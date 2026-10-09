@@ -1,0 +1,4985 @@
+[
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C14CF1D14DA8D575123B928CBBD137E2"
+  ],
+  "en": "\nThe following weapon(s) have no weapon group set:",
+  "ko": "\\n다음 무기에 무기 그룹이 지정되지 않았습니다:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "8F61BF824538675B0C87A48936C698EF"
+  ],
+  "en": "  SALVAGE ASSEMBLY  ",
+  "ko": "회수품 조립"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "547A1E914C3C2EFB97007AB781C4656C"
+  ],
+  "en": "  WEAPON UPGRADES  ",
+  "ko": "무기 업그레이드"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "485C53454DE367803C4667B2A0AB68EF"
+  ],
+  "en": "\"Float like a butterfly, sting like a bee\" - Wayz",
+  "ko": "\"나비처럼 날아서 벌처럼 쏜다\" - Wayz"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3993E4984103F39278952D8430DC26EC"
+  ],
+  "en": "'MECH QUIRKS",
+  "ko": "메크 쿼크"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "AABBD51C4E5598C80457149B3EF92F87"
+  ],
+  "en": "(LosTech)",
+  "ko": "(로스텍)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9C8CCE1A4D3D32BE6BCA02B54DC816D9"
+  ],
+  "en": "- no quirks -",
+  "ko": "- 쿼크 없음 -"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "14F5F9484F324144557EFB9B546500D8"
+  ],
+  "en": "1 Upgrade Point",
+  "ko": "업그레이드 포인트 1"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3577E00B42991602AFEBB49F9292C8C1"
+  ],
+  "en": "12 SLOTS",
+  "ko": "12 슬롯"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3F0313C24EB7F127526A6AA7315B8812"
+  ],
+  "en": "active mods",
+  "ko": "활성 모드"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E6C8187942A0DDF7A0F54F84AE04AAEF"
+  ],
+  "en": "Add a mech to your inventory\n\nExample:\naddmech AS7-D",
+  "ko": "인벤토리에 메크를 추가합니다\\n\\n예시:\\naddmech AS7-D"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "6F4BC2B443F3AD2D6A0076A926DB108D",
+   "018E00944251A4A674D55AB84F8773E8"
+  ],
+  "en": "Add a mech variant to your inventory",
+  "ko": "인벤토리에 메크 파생형을 추가합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "35ED72084C935C3A7068D39B30E03C5F"
+  ],
+  "en": "Add a weapon to your inventory",
+  "ko": "인벤토리에 무기를 추가합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B710233C440D8434A08662899D57791C"
+  ],
+  "en": "Add cbills to inventory",
+  "ko": "인벤토리에 C-빌을 추가합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "83F6AB6543892344C6218FA948D86940"
+  ],
+  "en": "Add partial mech salvage parts to your inventory",
+  "ko": "인벤토리에 메크 부분 회수 부품을 추가합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0A6DF8274F67E9C64F6914B099EA8993"
+  ],
+  "en": "Advance the year in the campaign timeline",
+  "ko": "캠페인 타임라인의 연도를 앞으로 넘깁니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A497F0F24E164473E0CABE840685E33F"
+  ],
+  "en": "Advanced UAV Drone",
+  "ko": "고급 UAV 드론"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B872A0D249966D79F7ECC593EF931CEA"
+  ],
+  "en": "AI Role: Ambusher",
+  "ko": "AI 역할: 매복"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "993FA08F41BBE2829C87DEA892BD23F5"
+  ],
+  "en": "AI Role: Anti-Air",
+  "ko": "AI 역할: 대공"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5263C82144FE9058535D0594BC5D04D4"
+  ],
+  "en": "AI Role: Brawler",
+  "ko": "AI 역할: 난투"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "638A7D7A44CD9E76B72F42A9A09CD2AD"
+  ],
+  "en": "AI Role: Juggernaut",
+  "ko": "AI 역할: 저거너트"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7357F06A47E81B3DAAF5C0B77FFFFCCE"
+  ],
+  "en": "AI Role: Missile Boat",
+  "ko": "AI 역할: 미사일 보트"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "ED0CCA284FB30C7A2A5F2F9ED10A31F3"
+  ],
+  "en": "AI Role: Scout",
+  "ko": "AI 역할: 정찰"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FFC2AE194CE593E43C80A4B18E077FC9"
+  ],
+  "en": "AI Role: Skirmisher",
+  "ko": "AI 역할: 척후"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F068E9934A8A1D29E4F6B698FF832920"
+  ],
+  "en": "AI Role: Sniper",
+  "ko": "AI 역할: 저격"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FA72151F472ED79B2955AAAE7E8A0FE0"
+  ],
+  "en": "AI Role: Striker",
+  "ko": "AI 역할: 타격"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "31F9299840EAD2B99F70368437BA384E"
+  ],
+  "en": "Alpha damage (no melee)",
+  "ko": "알파 피해량 (근접 제외)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F129153545A48AB4209DEEAF2F3652AE"
+  ],
+  "en": "Alpha heat",
+  "ko": "알파 발열"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "638B9ED148EB86A04666A6A592D6CC7B"
+  ],
+  "en": "Already Installed",
+  "ko": "이미 설치됨"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C4D3DA6F4E3DF2C06EEEE3833FE97513"
+  ],
+  "en": "AMS Intercept/s",
+  "ko": "AMS 요격/초"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1ACD025B4B4B23B9FB8673AA2960676B"
+  ],
+  "en": "AMS max range  (m)",
+  "ko": "AMS 최대 사거리 (m)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "CE3046B7446246C367EF9C9B1180FA59"
+  ],
+  "en": "Armor Filler",
+  "ko": "장갑 채움 슬롯"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1B8D4A2B4D850237D5EC31A4352A2ACB"
+  ],
+  "en": "Armor Standard",
+  "ko": "표준 장갑"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "35DA1FC04D57F6C6FC47EA8D2F0E467D"
+  ],
+  "en": "ASSEMBLE MECH",
+  "ko": "메크 조립"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A54A83414CC0952170D165BDEA41D9B2"
+  ],
+  "en": "Atmospheric Density",
+  "ko": "대기 밀도"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A31E34B84B679F70031B95BF14420E33"
+  ],
+  "en": "Atmospheric Type",
+  "ko": "대기 유형"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5E3A5EE24BE2A240AEDC3CAC727E955F"
+  ],
+  "en": "Aurora Severity",
+  "ko": "오로라 강도"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "4860D89F499E3DA84F1EB485213AEB2D"
+  ],
+  "en": "Background Effects",
+  "ko": "배경 효과"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "79B6FAA345F2682D77F46293E0F2CE57"
+  ],
+  "en": "Balanced?",
+  "ko": "밸런스형?"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "BC144B134D0246834505EBAF5765D193"
+  ],
+  "en": "Ballistic / Energy",
+  "ko": "탄도 / 에너지"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5B97C39D46B7BE71E8F291B7AB5A4BB7"
+  ],
+  "en": "Battle Value: 2000",
+  "ko": "전투 가치: 2000"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3B9937CE4FB1D19CD7622C90BD9BB19A"
+  ],
+  "en": "Bigger is better. More mech, more hardpoints, more dakka!",
+  "ko": "클수록 좋다. 더 큰 메크, 더 많은 하드포인트, 더 많은 화력!"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "72416A17428EF4DC684F3D9B7C830A32"
+  ],
+  "en": "Bobbert's Mod Options: not installed",
+  "ko": "Bobbert's Mod Options: 설치되지 않음"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "4D9A04BD48D0841AC39782A44FC13428"
+  ],
+  "en": "BV ADJUSTMENT:",
+  "ko": "BV 조정:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C48C71FD4D88369BF6B97FA39BD450B5"
+  ],
+  "en": "by: trueg and cszolee",
+  "ko": "제작: trueg, cszolee"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9809B3AA41D291BC3EC141A481ACAC82"
+  ],
+  "en": "CHANGE WEATHER",
+  "ko": "날씨 변경"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FF74C8B54E029E9EDC814CBC33C563B0"
+  ],
+  "en": "Cheers Calmputer, hope you like it :) - cszolee79",
+  "ko": "고마워요 Calmputer, 마음에 들길 :) - cszolee79"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B8FBA79148EC0EDB2BDB408A12693B60",
+   "D2A14A8D4E74A17A50D8DDA7495046D2"
+  ],
+  "en": "Clear search",
+  "ko": "검색 지우기"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "BA006A42449454488D66E4B36CF1ACF3"
+  ],
+  "en": "Click and hold to install upgrade",
+  "ko": "길게 클릭해 업그레이드 설치"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DF8A81864F4BF3C8DFE17396E36F9773"
+  ],
+  "en": "Cloud Cover",
+  "ko": "구름양"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E2A2F0024BEBF6A44D10E2AF363E3D7C"
+  ],
+  "en": "Cockpit Standard",
+  "ko": "표준 조종석"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A1529B6B41D8B4D4F71FC0A8C65D7B41"
+  ],
+  "en": "COLD STORAGE (10)",
+  "ko": "냉동 보관 (10)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "ABFD54B148A338C162C398B5203647AB"
+  ],
+  "en": "Complete cantina missions to earn upgrade points",
+  "ko": "지하 주점 임무를 완료해 업그레이드 포인트를 획득하세요"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "CD854B7346F2FD0440E778A66C5E3CE9"
+  ],
+  "en": "CONFIRM WEAPON UPGRADE",
+  "ko": "무기 업그레이드 확인"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B5F3B99F4E3FD060971692812A228D1D"
+  ],
+  "en": "COOLANT FLUSH (9)",
+  "ko": "냉각수 방출 (9)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "329BBC39469527EE24325D97E2E66D92"
+  ],
+  "en": "Cooling heat/s",
+  "ko": "냉각 열/초"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "2137A50D4490D26598EC3BA1870D6D64"
+  ],
+  "en": "COOLSHOT (INSERT)",
+  "ko": "쿨샷 (INSERT)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "401E69FD49E72A7AAE803FB0700D97C9"
+  ],
+  "en": "COUNTER ROTATION (CAPS LOCK)",
+  "ko": "역회전 (CAPS LOCK)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1E6EBC9E416C3B52708B7F810FCE6431"
+  ],
+  "en": "CRITICAL SLOTS: 1 (SHOULDER + UPPERARM + LOWER ARM + HAND)",
+  "ko": "크리티컬 슬롯: 1 (어깨 + 상완 + 하완 + 손)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B8A73ACA475123D74AF668A1E829E5AA"
+  ],
+  "en": "Current Value",
+  "ko": "현재 값"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "00E88E5A4526FFE5552DC7969B00372E"
+  ],
+  "en": "CUSTOM NAME",
+  "ko": "사용자 지정 이름"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "EC2EA565405DA03C2E8468938D7034D4"
+  ],
+  "en": "Damage/s",
+  "ko": "피해량/초"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9AA59F4F4B537594DF2BECB91421EE6D"
+  ],
+  "en": "DEFAULT LOADOUT",
+  "ko": "기본 무장 구성"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "14492133469DF5A1F59DD78737690579"
+  ],
+  "en": "Defensive None",
+  "ko": "방어 장비 없음"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DB73164C4323BDD93E9164A461BC6B78"
+  ],
+  "en": "Describe an asset, listing certain details about it.",
+  "ko": "에셋의 세부 정보를 나열해 설명합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "76C1887A4BCE24413006AA8A3DB5C35C"
+  ],
+  "en": "Disable Pirate Stuff:",
+  "ko": "해적 요소 끄기:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "03CE5C5440437F9800F863AEC2A2DB25",
+   "329C3E7A45F0CB7DDB4B7B84B83868F8"
+  ],
+  "en": "Dmg\n△\n▽",
+  "ko": "피해\\n△\\n▽"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E8CDF1FD452EC0AB7B13CDB8C61C4B3D",
+   "DACE5402441685210C1E14BB40888451"
+  ],
+  "en": "DRAG 'MECH HERE TO BREAK UP FOR SALVAGE",
+  "ko": "회수용으로 분해할 메크를 여기로 끌어다 놓으세요"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "107E75A944EC264830C29090B7979DFE"
+  ],
+  "en": "Dump player mech sensor stats",
+  "ko": "플레이어 메크의 센서 수치를 출력합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7FBA9B8343E6DEA2A9D81C811ECC42E1"
+  ],
+  "en": "Dump YAML save game settings",
+  "ko": "YAML 세이브 게임 설정을 출력합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "738FA2B34A1A34490536AE92DDF868A8"
+  ],
+  "en": "DYNAMIC FILLER",
+  "ko": "동적 채움 슬롯"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "BC7AA028446DF76F4CB6C89EBB0EB7B6"
+  ],
+  "en": "Enable Clan Internals:",
+  "ko": "클랜 내부 구조 사용:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "42E8125243851F5B49595EB6A6B51911"
+  ],
+  "en": "Enable Simple Mechlab:",
+  "ko": "간편 메크랩 사용:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "59B81F8E4E2C308B7C7309BDE5DCB975"
+  ],
+  "en": "Engine Filler",
+  "ko": "엔진 채움 슬롯"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D3F849DA470953EF7A1FB0BBB73C4949"
+  ],
+  "en": "Engine Single Heat Sinks",
+  "ko": "엔진 싱글 히트 싱크"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "8589C66E41C23EB84AF2D885501133B8"
+  ],
+  "en": "Enter part of item name to search ",
+  "ko": "검색할 아이템 이름의 일부를 입력하세요"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "55BE7B4445A09560DF2AC590106A5FD3",
+   "D28F286449C8E1788E53308F175DC443"
+  ],
+  "en": "FAHAD SAYS:",
+  "ko": "파하드의 한마디:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B8CA790843C8CDC4A240C89A91B04333"
+  ],
+  "en": "FCS Standard",
+  "ko": "표준 FCS"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C9B322C14BED8C6A6E64C1A59C0E7619"
+  ],
+  "en": "Filter all equipment",
+  "ko": "모든 장비 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "37F3D59947333A0AE955BE8BE9225A96",
+   "A1B90DC8475F807A340D339B77CD1894"
+  ],
+  "en": "Filter all weapons",
+  "ko": "모든 무기 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9CC8CC3643E7B35F518B93854B7995DC"
+  ],
+  "en": "Filter ammunition",
+  "ko": "탄약 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "8ACDFF8C4E018E71C334B0A14EBF5E53",
+   "C092BE834AA989B9643B52B174203BFD"
+  ],
+  "en": "Filter AMS weapons",
+  "ko": "AMS 무기 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "958DC0EC4D719B7FED093BABB6AD9AC7"
+  ],
+  "en": "Filter armor and structure",
+  "ko": "장갑 및 구조 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "940C07DA4B211FBCDC974A8076740332"
+  ],
+  "en": "Filter artillery weapons",
+  "ko": "포격 무기 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "4F37192E497B8A9E86078A8088AA2BC4",
+   "7E3FA1B94411C333CED179B48A5F8EF7"
+  ],
+  "en": "Filter ballistic weapons",
+  "ko": "탄도 무기 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "90A1B997440BFEA43296C9BBD54DD11D"
+  ],
+  "en": "Filter consumables and misc",
+  "ko": "소모품 및 기타 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "696A19584F09DF486AC2D5B5FB8C01C1"
+  ],
+  "en": "Filter cooling equipment",
+  "ko": "냉각 장비 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "623000984CDBF8F3D854EFB313B469FF"
+  ],
+  "en": "Filter defensive upgrades",
+  "ko": "방어 업그레이드 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C121218C464F052633FFD2B93B952EDD"
+  ],
+  "en": "Filter electronic warfare",
+  "ko": "전자전 장비 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "503066874A69AC9BF92153874024DE0F",
+   "AE375EB946B5FB3D2840C79681C97CC0"
+  ],
+  "en": "Filter energy weapons",
+  "ko": "에너지 무기 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0E95FF374661DDCAAAD7F8BA6CF5D579"
+  ],
+  "en": "Filter engine types",
+  "ko": "엔진 종류 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "2E6CC8F8484A4F96C41B408FA65AFE05"
+  ],
+  "en": "Filter engines cores",
+  "ko": "엔진 코어 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B715156B4E68B32F04E352B835E71423",
+   "73C0979F4924995DA4208991E89C03C0"
+  ],
+  "en": "Filter melee weapons",
+  "ko": "근접 무기 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7EE842CC4A54AA5DD1C6F487571A800C"
+  ],
+  "en": "Filter misc equipment",
+  "ko": "기타 장비 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "4A5ADFCF40F5D5F72455529D31A7480C",
+   "B6AC11714858879C6CCBC08C877AD832"
+  ],
+  "en": "Filter missile weapons",
+  "ko": "미사일 무기 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "853A27894CEE5FB410D39983E545ABB1"
+  ],
+  "en": "Filter mobility equipment",
+  "ko": "기동 장비 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F4CDEEE840979161EEF13E88671E2518"
+  ],
+  "en": "Filter sensors and targeting",
+  "ko": "센서 및 조준 장비 필터"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A85E56E44FEBB97A8109679931F91073"
+  ],
+  "en": "First YAML Release",
+  "ko": "YAML 첫 릴리스"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "632639B44DDD9518261188BDA96F9E16"
+  ],
+  "en": "Gameplay settings",
+  "ko": "게임플레이 설정"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A11C019B4185C05F868FB7A5F7374F0B"
+  ],
+  "en": "German Mechgineering at its finest! Yoink!",
+  "ko": "독일 메크 공학의 정수! 냉큼 가져왔다!"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "16EA8F2D496396686AB39689F5208116"
+  ],
+  "en": "Gyro Standard",
+  "ko": "표준 자이로"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "22A4D151450EC8343E55289DA255F8CC",
+   "8A056EEF4B11E4F1B6A91AB39E49DA65"
+  ],
+  "en": "HAVE:",
+  "ko": "보유:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B62153F940C269B66E0F86AD9E58253D"
+  ],
+  "en": "HEADLIGHTS (L)",
+  "ko": "헤드라이트 (L)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "347B4960488CFEB1338D03BD9A77DC46"
+  ],
+  "en": "Heat capacity",
+  "ko": "열 용량"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5B5B513A4246B2EB736D27A202DA4025"
+  ],
+  "en": "Hero Mechs",
+  "ko": "영웅 메크"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A036D467432C8C7FD97E8AA7A79AED59"
+  ],
+  "en": "HOLD SHIFT FOR * 10",
+  "ko": "SHIFT를 누르고 있으면 * 10"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B0C8C1E04FA4A7CAFD681BBE862232E9"
+  ],
+  "en": "Human Resources",
+  "ko": "인사 관리"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5CAE8FE54C2EEA643CB39E837F865345"
+  ],
+  "en": "Immediately finishes all work orders",
+  "ko": "모든 작업 지시를 즉시 완료합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "037A012B418C1E32DB0A7888207797A4"
+  ],
+  "en": "Import / Export Settings:",
+  "ko": "설정 가져오기 / 내보내기:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E0AC04D74D54AAD7C5348494C490E0A6"
+  ],
+  "en": "Improved Sensors increase sensor range by 100 meters.",
+  "ko": "개량형 센서는 센서 범위를 100미터 늘립니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "75A008124253DA0382482E8D18FAB02F"
+  ],
+  "en": "INDUSTRIAL RATING:",
+  "ko": "산업 등급:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B8C251CD4475AF86A8585AB34C9BEF04",
+   "AF78C213432045BE2752E38DF3C827D7"
+  ],
+  "en": "Intro Date: 3067",
+  "ko": "도입 연도: 3067"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C6922D3441CAF367A138D99DA2D14329"
+  ],
+  "en": "It's just hard. Maybe too hard, maybe not, no idea.",
+  "ko": "그냥 어렵습니다. 너무 어려울 수도, 아닐 수도 있습니다. 모르겠네요."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B9A345F642B5EEA591BDEA8809329BEB"
+  ],
+  "en": "Jump height (m)",
+  "ko": "점프 높이 (m)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3B87AC49499601DF9C35D4B531D29742"
+  ],
+  "en": "Kill all non-player-team pawns",
+  "ko": "플레이어 팀이 아닌 모든 유닛을 처치합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DEA5D525490F188286FAB0B91601DE07",
+   "3BC90A374DFF007DFEFEE29BAEDA5E83"
+  ],
+  "en": "King Crab Pincer",
+  "ko": "킹 크랩 집게"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "271AD36E463EAF44F66594A43B6CDA80"
+  ],
+  "en": "King Crab Pincers - Rip And Tear!",
+  "ko": "킹 크랩 집게 - 찢고 부숴라!"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "EE076A7B40101AA356728C9A59086B5B"
+  ],
+  "en": "LB 10-X AUTOCANNON SOLID SLUG",
+  "ko": "LB 10-X 오토캐논 솔리드 슬러그"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "28C1F1B94DFF771876A9C28287AF4487"
+  ],
+  "en": "LB 10-X AUTOCANNON SOLID SLUG\nTIER: 4 HAVE: 156",
+  "ko": "LB 10-X 오토캐논 솔리드 슬러그\\n등급: 4 보유: 156"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3A38A5394F07604D0FF471813217C440"
+  ],
+  "en": "Leopard Improved Engines",
+  "ko": "레오파드 개량형 엔진"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "8061A258435A7B01D2919E9B47B5B17E"
+  ],
+  "en": "Life Support Standard",
+  "ko": "표준 생명 유지 장치"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E81F18514CD857BC7785EE81D5C77D44"
+  ],
+  "en": "Lightning Severity",
+  "ko": "번개 강도"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "49C7C5FD46AE4920257E229993195F32"
+  ],
+  "en": "List all equipment in the inventory",
+  "ko": "인벤토리의 모든 장비를 나열합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B704AC84481C48401CDB5B99D94860E7"
+  ],
+  "en": "List all weapons in the inventory",
+  "ko": "인벤토리의 모든 무기를 나열합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DB6471F6459117002B651C936A6A0F97"
+  ],
+  "en": "Lists pawns in the current mission",
+  "ko": "현재 임무의 유닛을 나열합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "39B5294B458CF3B7201D49A416AE4607"
+  ],
+  "en": "LOAD LOADOUT",
+  "ko": "무장 구성 불러오기"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FB46AA2B47EDA9B84548AF8C81FA4752"
+  ],
+  "en": "load order: 30.0",
+  "ko": "로드 순서: 30.0"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D6ED593646A8E0B5B2148A8B96C8FB00"
+  ],
+  "en": "Load Preset:",
+  "ko": "프리셋 불러오기:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DCFF79E642ED075872A1009AD15FDF9F",
+   "08C1900E4299960BF5CE889D3C3F6979"
+  ],
+  "en": "Lower Arm",
+  "ko": "하완"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5B0BB18E40AA6E7B14885387CF81CEC1",
+   "44F8D0954277C520372175BDDA445BA3"
+  ],
+  "en": "Lower Leg",
+  "ko": "종아리"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "6C6C88EC4501B583898BD58981D42C81"
+  ],
+  "en": "MASC Filler",
+  "ko": "MASC 채움 슬롯"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0F0E085645354FB197DF7F98A3335960",
+   "B464B7934D4A8410CA1E70A2F817C272"
+  ],
+  "en": "MAX\n500m",
+  "ko": "최대\\n500m"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9FFCA3AB446AC993F2CC49ABB59D7536"
+  ],
+  "en": "Max / Selected",
+  "ko": "최대 / 선택"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "2AD5F5504D297D878FCCDEB3157B0087"
+  ],
+  "en": "MECH CHASSIS",
+  "ko": "메크 섀시"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9CB680A9474A4AA33C5819B22ECBA537"
+  ],
+  "en": "Mech Data (MDA) asset name\nexample:\nAWS-8V_MDA_AIV",
+  "ko": "메크 데이터(MDA) 에셋 이름\\n예시:\\nAWS-8V_MDA_AIV"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F3FDF07041397BAD3D941C91D3EEF4D1"
+  ],
+  "en": "Mech Model (MDL) asset name\nexample:\nAssassin_MDL",
+  "ko": "메크 모델(MDL) 에셋 이름\\n예시:\\nAssassin_MDL"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FDC4D6E549277785EC653EAB9231DD85"
+  ],
+  "en": "Mech Role Changed",
+  "ko": "메크 역할 변경됨"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "2E127A834E13CCCA5D5596A6081E4246"
+  ],
+  "en": "Mech Roles",
+  "ko": "메크 역할"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3E1E816F4A11329D42CB20BE385A707D"
+  ],
+  "en": "Mech Roles Overview",
+  "ko": "메크 역할 개요"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FD6493D345DD9FC5FDAD7BBC7C278745"
+  ],
+  "en": "Mechbay 2 Medium Clamps",
+  "ko": "메크베이 2 중형 클램프"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E190545B495B88A677C0F3ABB8CBBE36"
+  ],
+  "en": "MECHLAB PERMISSION LEVEL:",
+  "ko": "메크랩 권한 레벨:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "884B927142AC340C8443598E2F16C30B",
+   "FD73DB6F4FB4DCC0109CD8A444FC003B"
+  ],
+  "en": "MIN\n60m",
+  "ko": "최소\\n60m"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "56D4D9724E2B4982101A2C9802766FF1"
+  ],
+  "en": "Missile / Energy",
+  "ko": "미사일 / 에너지"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "8728EE5D4E7D6C94DC0463886C2CA20E",
+   "69AA2C1945AD0115A78A04910D6FD73F"
+  ],
+  "en": "NEED:",
+  "ko": "필요:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "355F520F4FD7D3DCC224098171DAD761",
+   "BB99C1C8489BDFE7DD663A9220C2F84F"
+  ],
+  "en": "NO 'MECH SALVAGE",
+  "ko": "메크 회수품 없음"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "59101DB24046115A4472DF9B6ED75E95"
+  ],
+  "en": "No Core Installed",
+  "ko": "코어 미설치"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "76ED97D5416CDAC9FDF6A6A0CF84EC3B"
+  ],
+  "en": "NUMBER TO UPGRADE DEPENDS ON TIER",
+  "ko": "업그레이드 수량은 등급에 따라 다릅니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0F5FF08849CFE2EF45CB6F8E16D73BBF"
+  ],
+  "en": "Open Export Folder:",
+  "ko": "내보내기 폴더 열기:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "90B09D0F4D82278C82E2D793415F8D50"
+  ],
+  "en": "Open Folder",
+  "ko": "폴더 열기"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "6935BF3C40B70336476128B29417A068",
+   "873DA793418D6B8D7D7445B5135E0B31"
+  ],
+  "en": "OPT\n450m",
+  "ko": "최적\\n450m"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "BEB69D5243ADB7848C588BA413E11847"
+  ],
+  "en": "origin:\nversion:\nbuild:",
+  "ko": "출처:\\n버전:\\n빌드:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E155BE46464667ACC4487488667FDD84"
+  ],
+  "en": "Partial Salvage to sell:",
+  "ko": "판매할 부분 회수품:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "6DB13FB14BF56A41B798F499C148A127"
+  ],
+  "en": "Particulate Severity",
+  "ko": "입자 강도"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A35A42594C3EF44E20E1459FE3F4FAA5"
+  ],
+  "en": "Particulate Type",
+  "ko": "입자 유형"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E46F70D94C709EEB07CF96A0D15D8737",
+   "EE3BDFBD407B7092E59E0AA7977A22D8"
+  ],
+  "en": "PERMISSION:",
+  "ko": "권한:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "551C64964ADFDBAA2551398267FB78E6"
+  ],
+  "en": "Pilot Mech Experience",
+  "ko": "파일럿 메크 경험치"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7F6E016D45B8ED697F5F6FA1B8C626E9"
+  ],
+  "en": "Please wait, Yet Another Mechlab is processing assets",
+  "ko": "잠시 기다려 주세요. Yet Another Mechlab이 에셋을 처리하고 있습니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0826643043DEE049F3483393AC33EF2D"
+  ],
+  "en": "Quirk condition",
+  "ko": "쿼크 조건"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A19FA2024EFD62228BF9C6BBDC161895"
+  ],
+  "en": "Quirk type",
+  "ko": "쿼크 종류"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "CB5D1040465E13CB319DA0A7FEAB1D8E"
+  ],
+  "en": "Random Background",
+  "ko": "무작위 배경"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0258F44240B35663C8BD79B5AF203C69",
+   "E8AB5BDD4270CEDAC55638ACF901C1C4"
+  ],
+  "en": "RCLICK FOR MENU",
+  "ko": "우클릭으로 메뉴 열기"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A528697B418A8BEFCE565E8B9F91917D"
+  ],
+  "en": "RCLICK TO ASSEMBLE",
+  "ko": "우클릭으로 조립"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "76C7D725407DD54BF98A4B919920F471"
+  ],
+  "en": "RCLICK TO UPGRADE",
+  "ko": "우클릭으로 업그레이드"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "23A917C74C455AE79C136BA59E4FAF86"
+  ],
+  "en": "Refund all YAML leopard upgrades",
+  "ko": "YAML 레오파드 업그레이드를 모두 환불합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "6D5E49FB42CDA9133F033AA63E5B8991"
+  ],
+  "en": "REMOVE INVALID",
+  "ko": "유효하지 않은 항목 제거"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9A5D6D7540D2E5ACDF1527AF5304711C"
+  ],
+  "en": "Remove invalid equipment from inventory",
+  "ko": "인벤토리에서 유효하지 않은 장비를 제거합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "102632CF41367747F113A0B63F26BF84"
+  ],
+  "en": "Required total parts:",
+  "ko": "필요한 전체 부품:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D929FE264AFC3B57165162A8DF1C9284"
+  ],
+  "en": "Required variant parts:",
+  "ko": "필요한 파생형 부품:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "50336666480E791EAD79208E2F72425E"
+  ],
+  "en": "Role: Juggernaut",
+  "ko": "역할: 저거너트"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "21780E22466C60F8D489C683EE6CDA0D"
+  ],
+  "en": "Rotate Mech",
+  "ko": "메크 회전"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3075211544134323AA17948255A03F4A"
+  ],
+  "en": "Salvage Crew",
+  "ko": "회수반"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "2C355AF947074F55B726A9A94B338FD6"
+  ],
+  "en": "Select additional salvage to use:",
+  "ko": "추가로 사용할 회수품 선택:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "093CAF0E4793A2DF1D099A83F1883523"
+  ],
+  "en": "SELECT BATTLEMECH - ENTER TEXT TO SEARCH",
+  "ko": "배틀메크 선택 - 텍스트를 입력해 검색"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "555469C347F5FA470E64FDB83472CDEC"
+  ],
+  "en": "Select the amount of weapons to upgrade",
+  "ko": "업그레이드할 무기 수량을 선택하세요"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B02D773A4BA8479EE2D270AF6ECB657F"
+  ],
+  "en": "Selected parts:",
+  "ko": "선택한 부품:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "07DD837B49C40B66113C20A1A4339DB4"
+  ],
+  "en": "Selected Value",
+  "ko": "선택한 값"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "343EA1B74C7EFF6E947326A5A42A6CB8"
+  ],
+  "en": "Sell currently selected active 'Mech.",
+  "ko": "현재 선택한 활성 메크를 판매합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1D44F609456ED36E317A3787D07FFF91"
+  ],
+  "en": "SELL PARTIAL MECH SALVAGE",
+  "ko": "메크 부분 회수품 판매"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "88BED5654585CA9E4E6AC09418EBC03C"
+  ],
+  "en": "SELL SELECTED 'MECH",
+  "ko": "선택한 메크 판매"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F06C0D024D53B0523732F6BEF8E04D46",
+   "B317924C4E1CA8A7873D248C89484BF2",
+   "AE28AB9F4C72C3A92BC1E4B103F918AF",
+   "6B065201463DB7E98732D488B9F501F2",
+   "1A355F124BA0E248EE9EEB87C91AB5DF",
+   "4DB20F164CAEB60D4F81CD9492B0671B",
+   "0A1DBFDE40E796D531C7F3BB6CBF63E0",
+   "578A507E41B29D139598D5941E1D4CFC",
+   "1228AD6E4C33589AEC814A9556933DFE",
+   "A35167E64DA130C34A64F1B807E43101",
+   "0A00C73744654ED1D991AB8AF99DD662",
+   "F608456E47326856816C069149CEC72E",
+   "3CDE24FB4BF53E92CCB0E58CA5A3D585",
+   "5E9F4FEF44810D2601208B8EC46AFBA5",
+   "B721C27649E7D4988C4FFB872A6CA011",
+   "D99F359D44FC717EC7136ABEA840E354",
+   "10819D77490178D655B5129A4138C91C",
+   "2A02110846E058BF7AA27B9802882C61",
+   "670BCC8846BE55B72F4906BB4069DA74",
+   "2E429E22438B37F4F285C593E2F73F16",
+   "EB7E7F834B1945DAE525EEAA1A0593C8",
+   "71F68844403A74D1931A5DB18E5228CE",
+   "DF480D98409ED0DE708EF58861CA14A4",
+   "6D7DEA07444E729D422537ABA5831D04",
+   "3DF2FF6F43B61E24E14E01B39994142B",
+   "5B59A91342D0D6998776A3A6766674F5",
+   "85485AEE45B801E1E0795B9767203329"
+  ],
+  "en": "Semi-Omni",
+  "ko": "세미 옴니"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "BEF80C894F29A67819939FB503815636"
+  ],
+  "en": "Send command to Unreal Engine",
+  "ko": "언리얼 엔진에 명령을 보냅니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "15343F4C46A6FB0473D8A583160FD03F"
+  ],
+  "en": "Sensor range (m)",
+  "ko": "센서 범위 (m)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "03A479EB45DF66BA16D08DB819BE23C2"
+  ],
+  "en": "Sensors Standard",
+  "ko": "표준 센서"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "45BBBE51491E2012CA53218C66BF0D85"
+  ],
+  "en": "Set company reputation value",
+  "ko": "부대 평판 값을 설정합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "6A5B73C64DFDDEC71F801EB883983538"
+  ],
+  "en": "Set inventory cbills value",
+  "ko": "인벤토리의 C-빌 값을 설정합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0CDD642D4B039384985DE690E9EAB6DE"
+  ],
+  "en": "Set mercenary company name",
+  "ko": "용병 부대 이름을 설정합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "63789C8D4E269D442A69C0B1605CEBFE"
+  ],
+  "en": "Set YAML leopard upgrade points",
+  "ko": "YAML 레오파드 업그레이드 포인트를 설정합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "BBC71BC743796A91DBFB0C9E975C59F2"
+  ],
+  "en": "Sets Mercenary Company Name\n\nExample:\nsetname NewName",
+  "ko": "용병 부대 이름을 설정합니다\\n\\n예시:\\nsetname NewName"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DBA0A59845F0E5231DC5BC8B64A72B4F"
+  ],
+  "en": "Sets Mercenary Company Reputation\n\nExample:\nsetrep 300",
+  "ko": "용병 부대 평판을 설정합니다\\n\\n예시:\\nsetrep 300"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1B1C055B4C9D4E0D61A4B2B80A4AD887"
+  ],
+  "en": "Show company reputation value",
+  "ko": "부대 평판 값을 표시합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "8E1FA0344BE6E37A72504ABDFC4D7185"
+  ],
+  "en": "Show Yet Another Mechlab 0.99.2 Info",
+  "ko": "Yet Another Mechlab 0.99.2 정보 표시"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "06B5D3FE4C11694EE2323D813C95FB29",
+   "421339624FF17ABE24A535B81CF133A3"
+  ],
+  "en": "Show Yet Another Mechlab Changelog(s)",
+  "ko": "Yet Another Mechlab 변경 내역 표시"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7217C09A4837BF29E8B667AF298E9AD9"
+  ],
+  "en": "Sky Tint",
+  "ko": "하늘 색조"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "68306E274D84EF85E362F9A01863BAA2"
+  ],
+  "en": "Sniper Sensors increase sensor range by 500m.",
+  "ko": "저격 센서는 센서 범위를 500m 늘립니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0A9AFE7B4DA46577BDB18C91B2294219"
+  ],
+  "en": "Source:\nYet Another Mechlab",
+  "ko": "출처:\\nYet Another Mechlab"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "6AE2AA4240727666ED92709A804843E3"
+  ],
+  "en": "Special Mechs",
+  "ko": "특수 메크"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F1687B8D41406DD700EB21A04B93CE51"
+  ],
+  "en": "Speed (km/h)",
+  "ko": "속도 (km/h)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3F09FCE7443FDCA87D9C6AAD16B9D464",
+   "CACDED3A4CCAA4FE08C7BFBDC98F9930"
+  ],
+  "en": "Standard basic engine mounted by default in most chassis.",
+  "ko": "대부분의 섀시에 기본으로 탑재되는 표준 기본 엔진입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "61AD163F44BE73A39B0F8C9D485883F1"
+  ],
+  "en": "Standard Engine",
+  "ko": "표준 엔진"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "762BFD5B406F9C33047B2BA50D10F396"
+  ],
+  "en": "Standard Mechs",
+  "ko": "일반 메크"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C1B7D3BB4D88070991C16BA58482E24B"
+  ],
+  "en": "Structure Filler",
+  "ko": "구조 채움 슬롯"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B5B998B44F454675A95B7A8C24BEE2F8"
+  ],
+  "en": "Structure Standard",
+  "ko": "표준 구조"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E7B2DFAC47E6A55D1ADA238F296C27A2"
+  ],
+  "en": "Tank HP Multiplier",
+  "ko": "전차 HP 배율"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D1B479A14BA53D1D3AF02BB826396A24"
+  ],
+  "en": "Targeting Computer Mk9",
+  "ko": "조준 컴퓨터 Mk9"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7B62FF6D4CD1D52E1AA5DE98D2F5FCFF"
+  ],
+  "en": "TECH BASE:",
+  "ko": "기술 기반:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "57C94E32458A56095AF91EBB0540B9F2"
+  ],
+  "en": "Tech Base: Inner Sphere",
+  "ko": "기술 기반: 이너스피어"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "344BB9A84915459BEABFEE8056CF38D2"
+  ],
+  "en": "Teleports player controlled mech",
+  "ko": "플레이어가 조종하는 메크를 순간이동시킵니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "8041AE1A4DBD66B45480A699F1D11216"
+  ],
+  "en": "The favorite mech of the legendary Johnny, Lord Of Crabs.",
+  "ko": "전설적인 크랩의 군주 Johnny가 가장 아끼는 메크입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5B66A5784A21718F0803C0BDB5E7FE81",
+   "AEC64DF74530FCA2F66A89B39B39326A"
+  ],
+  "en": "The Flexibility Gyro improves torso turn rates and angles.",
+  "ko": "유연성 자이로는 동체 선회 속도와 각도를 향상시킵니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D950A9BB4F887440797660B29155C238"
+  ],
+  "en": "THERMAL HEAT",
+  "ko": "열화상 열"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "AF75A93545F0F96116FD8FA1053FBD1B"
+  ],
+  "en": "THERMAL VISION (PAGEDOWN)",
+  "ko": "열화상 시야 (PAGEDOWN)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "62B53E434DD21DB300FB6BB345AA8CD5"
+  ],
+  "en": "These slots are used by the armor of the Mech.",
+  "ko": "이 슬롯은 메크의 장갑이 사용합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "202B1DEC438E3D68236CDEA6370F0E1E",
+   "6178E68D47C0269076A8DD8C3A7FEEB2",
+   "11FEA5C24FB25A744B565F8E3DCB7DD7",
+   "8C662F274BEAF920624E9B94E5CC77EF"
+  ],
+  "en": "These slots are used by the engine of the Mech.",
+  "ko": "이 슬롯은 메크의 엔진이 사용합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "42EFC0FD421559838B3D0E88A71F135E"
+  ],
+  "en": "These slots are used by the internal structure of the Mech.",
+  "ko": "이 슬롯은 메크의 내부 구조가 사용합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F5C1F1D94DA103AE6E55239F35B32C5F"
+  ],
+  "en": "These slots are used by the MASC of the Mech.",
+  "ko": "이 슬롯은 메크의 MASC가 사용합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5B1217E948415593418891BEF1448F70"
+  ],
+  "en": "This 'Mech has\nActive Probe equipment\ninstalled.",
+  "ko": "이 메크에는\\n액티브 프로브 장비가\\n설치되어 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "AB2BE4DC4A4AFCD28FB07D86051C9883"
+  ],
+  "en": "This 'Mech has\nElectronic Warfare equipment\ninstalled.",
+  "ko": "이 메크에는\\n전자전 장비가\\n설치되어 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FA6EB6B84284524C8954FDB21642D3CE"
+  ],
+  "en": "Tier 0 and lower",
+  "ko": "등급 0 이하"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "016BCF5E43A54308B854199BE201CF14"
+  ],
+  "en": "Tier 1",
+  "ko": "등급 1"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "CD4CF97D4DDA4355F9954993A982DA54"
+  ],
+  "en": "Tier 2",
+  "ko": "등급 2"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "98E1428748857964940D1CBCA23B2006"
+  ],
+  "en": "Tier 3",
+  "ko": "등급 3"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DDF3AE424A2D42F9456721A4DF3B3F5C"
+  ],
+  "en": "Tier 4",
+  "ko": "등급 4"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9C0767284D675CAEC18D94A927B4A1C7"
+  ],
+  "en": "TIER 4 -> 5",
+  "ko": "등급 4 -> 5"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A15655CC4063EA4CE5C3E9AB48689FDB"
+  ],
+  "en": "Tier 5",
+  "ko": "등급 5"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A216A9C043702F900643F39128242AA3"
+  ],
+  "en": "Tier 6 and higher",
+  "ko": "등급 6 이상"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "914664DC4F7A006B837355BBA431B9FB"
+  ],
+  "en": "TIER3 -> TIER4",
+  "ko": "등급 3 -> 등급 4"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DFF71B8E41BE31D5D34F769080612218"
+  ],
+  "en": "Time Of Day",
+  "ko": "시간대"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "37FF9F0348A1040A3D997E98024B7D8D"
+  ],
+  "en": "TORSO COUNTER ROTATION (CAPS LOCK)",
+  "ko": "동체 역회전 (CAPS LOCK)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7D61890B41C27452FBD733B3BFAB610F",
+   "1BDF24E043FF10EA3FD5BBBF789AF62E",
+   "33A83F86419467396FAB8290CE554DF0",
+   "1722D7044D671BDF58889699349B0BFC"
+  ],
+  "en": "TOTAL:",
+  "ko": "합계:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D8B689914D7276F4862263AFAD8101A9"
+  ],
+  "en": "TRIPLE STRENGTH MYOMER",
+  "ko": "3배 강화 마이오머"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "EB9BA7DD46F528528DA502BEB2C698C0",
+   "4CD362714066EBA0399D288067322CC2"
+  ],
+  "en": "TTRulez AI Mech Roles",
+  "ko": "TTRulez AI 메크 역할"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B314AD6145CF3A34042117B2093005A6"
+  ],
+  "en": "Turn Based Tactics",
+  "ko": "턴제 전술"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "8CE04AF642E0D40192C32B9C6479BC34"
+  ],
+  "en": "Turret HP Multiplier",
+  "ko": "포탑 HP 배율"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1C84F1734DE36436EEB80B943F3BC9B9"
+  ],
+  "en": "UAV (HOME)",
+  "ko": "UAV (HOME)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7EE9E9274445BE2826DCE4986BFDF9D2"
+  ],
+  "en": "UAV Drone",
+  "ko": "UAV 드론"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "ACD607C349139EB129683BB43F4585D3",
+   "34BF821046A2E3660E869D9F97D4C8E6"
+  ],
+  "en": "Upper Arm",
+  "ko": "상완"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "53DAFE5F4975D1B39AEFD28697452AE6",
+   "DFC224A04FE0838801E3FCBFA7C98CD8"
+  ],
+  "en": "Upper Leg",
+  "ko": "허벅지"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C75AA8B24366128375C7219B3FB87308",
+   "0A6513324A26124C6DA211B309F41E84"
+  ],
+  "en": "Utility Slot (Empty)",
+  "ko": "유틸리티 슬롯 (비어 있음)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "512373704920F90C806C0793F9548C2F"
+  ],
+  "en": "Variant name in MDA\n(Variant Name / DisplayName)",
+  "ko": "MDA의 파생형 이름\\n(Variant Name / DisplayName)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1562528046083DD35128CBA0EA731F4F"
+  ],
+  "en": "VTOL HP Multiplier",
+  "ko": "VTOL HP 배율"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0B47CE7F43CE5AE4CEB7198297646726"
+  ],
+  "en": "WARNING:\nRAY TRACING IS ENABLED",
+  "ko": "경고:\\n레이 트레이싱이 켜져 있습니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "66C1451647E90D63D9CD24853B52348D"
+  ],
+  "en": "Warning: Fire Group Not Set",
+  "ko": "경고: 사격 그룹이 지정되지 않음"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D7138BFD4A1EDE8C66D1B081F00EA399"
+  ],
+  "en": "Warning: Ray Tracing is Enabled",
+  "ko": "경고: 레이 트레이싱이 켜져 있습니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "EA01D7E44A4C02FCDB01A2BB1E7E22F7"
+  ],
+  "en": "Warning: Shadows on Medium",
+  "ko": "경고: 그림자 품질이 중간입니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A32DE1D543BDCCFD0CA4A494AA14CA7D"
+  ],
+  "en": "Weapon\nTiers:",
+  "ko": "무기\\n등급:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3F6895804FCB08236B99DB89B8BA2F59"
+  ],
+  "en": "Weapon heat/s",
+  "ko": "무기 발열/초"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "79004CCB4FF01D6FEC5EE7996A5360A7"
+  ],
+  "en": "Weapon range (m)",
+  "ko": "무기 사거리 (m)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "475B11AD4753E15D76CC178DED94604B"
+  ],
+  "en": "Weather Constancy",
+  "ko": "날씨 지속성"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "2E553A06407F349D2D2CB08B501C6E7A"
+  ],
+  "en": "Wind Severity",
+  "ko": "바람 강도"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1F33C12C47A4EEA3FC0FC6BF115006D0"
+  ],
+  "en": "WORK ORDERS (5)",
+  "ko": "작업 지시 (5)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "EB2DEFB24237F804029684A99B3C0611"
+  ],
+  "en": "Write csv file of all weapons",
+  "ko": "모든 무기를 csv 파일로 저장합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DDBFAE294E10637CF8805992DB3B5187"
+  ],
+  "en": "Wtite a formatted list of all equipment",
+  "ko": "모든 장비의 서식 있는 목록을 저장합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "22C8E25741DFAA6F9BFE528AE8EEDA92"
+  ],
+  "en": "Wtite a list of all mech variants to the file system",
+  "ko": "모든 메크 파생형 목록을 파일로 저장합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "EEFFE28740FEF456E73F469946306B46"
+  ],
+  "en": "YAML GAME SETTINGS",
+  "ko": "YAML 게임 설정"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "56F1866049B0CC4B34CA87A33AF52FCE"
+  ],
+  "en": "{ItemName} Assembled",
+  "ko": "{ItemName} 조립 완료"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "2B4C7FF14436F6A32D08D19577B3A73F"
+  ],
+  "en": "{ItemName} assembled for {ItemPrice} CB.",
+  "ko": "{ItemName}을(를) {ItemPrice} CB에 조립했습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "672BDA964DBDF4E7CB0DFB826AACA42C"
+  ],
+  "en": "{ItemName} Scrapped",
+  "ko": "{ItemName} 분해 완료"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "66796A6747DA5FCA4C0F5FB405B5FAAF"
+  ],
+  "en": "{ItemName} scrapped for {ItemCount} parts.",
+  "ko": "{ItemName}을(를) 분해해 부품 {ItemCount}개를 얻었습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "74C59D0D4C0264575EC9A7952ACE0230"
+  ],
+  "en": "{ItemName} Upgraded",
+  "ko": "{ItemName} 업그레이드 완료"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B298B4FF4686B60FCC6F73B395C41839",
+   "9531090B456D45498A28CEADD71E67C8"
+  ],
+  "en": "◁ ▷\nRange",
+  "ko": "◁ ▷\\n사거리"
+ },
+ {
+  "mods": [
+   "MarketplaceQOL"
+  ],
+  "keys": [
+   "2DA89D3B48A6960BE5EDDDB45C821FFE"
+  ],
+  "en": "Items Automatically Sold",
+  "ko": "아이템 자동 판매됨"
+ },
+ {
+  "mods": [
+   "MarketplaceQOL"
+  ],
+  "keys": [
+   "73997A5746F791A0E1DF208AA6817D1C"
+  ],
+  "en": "Items automatically sold.",
+  "ko": "아이템이 자동으로 판매되었습니다."
+ },
+ {
+  "mods": [
+   "ModOptions"
+  ],
+  "keys": [
+   "00C1225446076EE5B59E3FA05BB43690"
+  ],
+  "en": "CURRENT MODS",
+  "ko": "현재 모드"
+ },
+ {
+  "mods": [
+   "ModOptions"
+  ],
+  "keys": [
+   "0AFD75B845E13940DE06BBAD100C57D1"
+  ],
+  "en": "Go To Bar",
+  "ko": "주점으로 이동"
+ },
+ {
+  "mods": [
+   "ModOptions"
+  ],
+  "keys": [
+   "3189A48F4C708F2BE24841B6F4C768A5",
+   "23AC832D418EE4E94591CEA4DED03B99"
+  ],
+  "en": "MOD SETTINGS",
+  "ko": "모드 설정"
+ },
+ {
+  "mods": [
+   "PurchaseSalvage"
+  ],
+  "keys": [
+   "1D070AD6459E8A0A23437AA32D420B60"
+  ],
+  "en": "CLAIM YOUR SALVAGED ITEMS FROM THE BATTLEFIELD",
+  "ko": "전장에서 회수한 아이템을 선택하십시오"
+ },
+ {
+  "mods": [
+   "PurchaseSalvage"
+  ],
+  "keys": [
+   "84BC9B7A4E800C04E1506F84C0EF9C8C"
+  ],
+  "en": "EXCESS SALVAGE FEE",
+  "ko": "초과 회수 수수료"
+ },
+ {
+  "mods": [
+   "PurchaseSalvage"
+  ],
+  "keys": [
+   "2A5DE8104BCA23AAD68C07BD5127C066"
+  ],
+  "en": "SELECTED SHARES OF SALVAGE",
+  "ko": "선택한 회수 지분"
+ },
+ {
+  "mods": [
+   "PurchaseSalvage"
+  ],
+  "keys": [
+   "BBFA12BB400E62EF23CE8D8288AF4378"
+  ],
+  "en": "Unused shares carry over to the next mission.",
+  "ko": "사용하지 않은 지분은 다음 임무로 이월됩니다."
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "9C07F41C495BACD4B25F269EA2927F28"
+  ],
+  "en": ": Cored",
+  "ko": ": 코어 파괴"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "BAFAD20648D5C47866ECFC9FA937E249"
+  ],
+  "en": "Ace Lancemate",
+  "ko": "에이스 랜스원"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "B232F1B547D78BC16D258BB251525A8D"
+  ],
+  "en": "Assault Lance",
+  "ko": "강습 랜스"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "65037CC44476AB149DE461A566BBE018"
+  ],
+  "en": "Battle Lance",
+  "ko": "전투 랜스"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "9F259FEE493AB02B9FE3B2873CAB7D9D"
+  ],
+  "en": "Boss Lancemate",
+  "ko": "보스 랜스원"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "6DBF8CA04E0C0CECA7911086048B5232"
+  ],
+  "en": "Cavalry Lance",
+  "ko": "기병 랜스"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "62E9720D41CEE54492255EBAD7AD451D"
+  ],
+  "en": "Combat Target",
+  "ko": "전투 목표"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "96317CFE4DDA43764DD011A0EB68FB13"
+  ],
+  "en": "Elite Lancemate",
+  "ko": "정예 랜스원"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "FF122CDF401617700B43A7846BC1DA22",
+   "C303EF144FD6F586829EFE97F64751FD",
+   "69ED8BE4420822C2BC0B47B05A1BD2B9",
+   "836FF57E432D2ADCD2F7298BA99FBE23",
+   "2B2535D644B602FC80C7B6810F1E0961",
+   "FBAEC61A4012A13B1407C3B2FC9B5090",
+   "B3D44FF74394836799AEFBA21E96E363"
+  ],
+  "en": "Find points to hide ",
+  "ko": "숨을 지점 탐색"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "B09655D44E0F104F4DA372AB97168925"
+  ],
+  "en": "Finds cover points around combat target",
+  "ko": "전투 목표 주변의 엄폐 지점 탐색"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "81F8536A45628A40557525B5595132A3"
+  ],
+  "en": "Finds cover points around Leader",
+  "ko": "지휘관 주변의 엄폐 지점 탐색"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "11EAC85F457FF70C99B9AA9C4A4DC4DF"
+  ],
+  "en": "Finds cover points around location",
+  "ko": "지정 위치 주변의 엄폐 지점 탐색"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "6E355BF64D9F3F7630B4FFA838A22B08"
+  ],
+  "en": "Finds jump locations",
+  "ko": "점프 위치 탐색"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "346F16804C70515F065F9F872A527098"
+  ],
+  "en": "Fire Lance",
+  "ko": "화력 랜스"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "03894B6348680602FEE29D90171ABA6D"
+  ],
+  "en": "Flank&Strike",
+  "ko": "측면 우회 후 타격"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "8D7E8DB944B157FFC3A9A19216CA913F"
+  ],
+  "en": "Flank&UseCover",
+  "ko": "측면 우회 후 엄폐"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "CB12EF52410530453D07F78E3FEC3A07"
+  ],
+  "en": "Go defensive",
+  "ko": "방어 태세로 전환"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "F6E6FBFF471B6C03DD6E248EA2EB3514"
+  ],
+  "en": "Green Lancemate",
+  "ko": "신참 랜스원"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "03C2990746B7AACB5977EDABC937AE82"
+  ],
+  "en": "Hit&Run",
+  "ko": "치고 빠지기"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "415B08544B192CA02A7D0D92D73953A7"
+  ],
+  "en": "Long Range",
+  "ko": "장거리"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "8A1E68F64A62BC68C86A8FB92C019D35"
+  ],
+  "en": "Medium Range",
+  "ko": "중거리"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "3941CD5F4561F3E09EFADC87E71A880C"
+  ],
+  "en": "MissileBoat Range",
+  "ko": "미사일 보트 거리"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "4D7899B94EF394BE5B56998A8EBB5C2A"
+  ],
+  "en": "No panic",
+  "ko": "당황하지 않음"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "868BEBA74F4B0FFFE1496F8F9ABC1C4D"
+  ],
+  "en": "Optimal Range",
+  "ko": "최적 거리"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "3E4456264078774ABDCE2F812786FF78"
+  ],
+  "en": "Prince's Champion",
+  "ko": "대공의 대전사"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "AFBFC9B54B81B91925647E957042BCA2"
+  ],
+  "en": "Recon Lance",
+  "ko": "정찰 랜스"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "DAA7086D4D42CC3B6B4C679CF92AE0FF"
+  ],
+  "en": "Recruit Lancemate",
+  "ko": "신병 랜스원"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "565ABD2E46765B58D6B738807A10CCAC"
+  ],
+  "en": "Regular Lancemate",
+  "ko": "일반 랜스원"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "7E9627F64F23DDCC0CEE37BFE5059831"
+  ],
+  "en": "Short Range",
+  "ko": "단거리"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "FD9B159040449F314C800A993DF508D8"
+  ],
+  "en": "Sniper/Firesupport",
+  "ko": "저격/화력 지원"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "0F4FBB1B4A0A857CEC0213BFDFCFAB5F"
+  ],
+  "en": "Suicide rush",
+  "ko": "자살 돌격"
+ },
+ {
+  "mods": [
+   "TTRulez_AIMod2"
+  ],
+  "keys": [
+   "6EB8A9204FAC23DCEB39C18375976AD3"
+  ],
+  "en": "Veteran Lancemate",
+  "ko": "베테랑 랜스원"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "807E72784F3D9692F0294BB0D3473F04",
+   "FAD348554BF27DB6A342088A46A3CAAA",
+   "BB9353B94B10E22E0F008891E0C86CBA"
+  ],
+  "en": "\n\nIf loading a vanilla savegame for the first time, please leave this setting off.\nOnly enable for new games, or if all your mechs are already YAML-converted, have engines, endo etc.",
+  "ko": "\\n\\n바닐라 세이브를 처음 불러오는 경우에는 이 설정을 꺼 두세요.\\n새 게임이거나, 보유한 모든 메크가 이미 YAML 방식으로 변환되어 엔진·엔도 등을 갖춘 경우에만 켜세요."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B7DB40C84C07A28AB85778812FC7BE6C"
+  ],
+  "en": "\nPLEASE DISABLE RAY TRACING IN:\n\nGAME OPTIONS / GRAPHICS / RTX - RAY TRACING:  OFF.\n\nIF YOU DO NOT, THE GAME WILL BE UNSTABLE AND CRASH  (ESPECIALLY ON SOLARIS MAPS). MW5 MERCS HAS A VERY EARLY RTX IMPLEMENTATION AND IT DOES NOT WORK PROPERLY.\nYOU SHOULD ALSO UPDATE DLSS DLL WITH DLSS SWAPPER TO A NEWER VERSION (3.10 FOR EXAMPLE), THE VERSION BUNDLED WITH THE GAME HAS SERIOUS ISSUES.\nTHIS MESSAGE WILL SELF-DESTRUCT IN 10 SECONDS.",
+  "ko": "\\n다음 위치에서 레이 트레이싱을 꺼 주세요:\\n\\n게임 옵션 / 그래픽 / RTX - 레이 트레이싱:  끔.\\n\\n끄지 않으면 게임이 불안정해지고 충돌합니다(특히 솔라리스 맵에서). MW5 머서너리즈의 RTX는 아주 초기 구현이라 제대로 작동하지 않습니다.\\n또한 DLSS SWAPPER로 DLSS DLL을 최신 버전(예: 3.10)으로 업데이트하는 것이 좋습니다. 게임에 포함된 버전에는 심각한 문제가 있습니다.\\n이 메시지는 10초 후 자동으로 사라집니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F409C30D437659CEF0F217A946678DD7"
+  ],
+  "en": "'The Queen of Spades', 'The First Lady of Death', and 'The Black Widow' are only some of the names applied to Natasha Kerensky. A living legend, her exploits with the Wolf's Dragoons are known in every corner of the Inner Sphere and many have declared her the deadliest MechWarrior alive. The tale of her losing her Marauder to the Bounty Hunter is well known, and every bar on every world has its own version. The one about the Black Widow Company's blackened 'Mechs charging through the burning forests of New Delos are so widely known that many opponents have fled the battlefield simply at the sight of her jet black Warhammer.",
+  "ko": "'스페이드의 여왕', '죽음의 퍼스트레이디', '블랙 위도우'는 나타샤 케렌스키에게 붙은 이름 중 일부일 뿐입니다. 살아 있는 전설인 그녀가 울프 용기병대와 함께 세운 공적은 이너스피어 구석구석에 알려져 있으며, 많은 이가 그녀를 현존하는 가장 치명적인 멕워리어라고 말합니다. 그녀가 바운티 헌터에게 머로더를 빼앗긴 이야기는 유명해서, 모든 행성의 모든 술집에 저마다의 판본이 있습니다. 블랙 위도우 중대의 검게 칠한 메크들이 뉴 델로스의 불타는 숲을 뚫고 돌격했다는 이야기는 너무나 널리 알려져 있어서, 그녀의 칠흑 같은 워해머를 보기만 하고도 전장에서 달아난 적이 많습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "775855304ABF5481EDCCA288564E43C3",
+   "9A71600F48055FAE85CEFDB20BAB818B",
+   "D359D7BB42BFE8BB8A0E9981D5EFC4CC",
+   "2311DF5B4F917378753BCB844758F139",
+   "5D763CEB4E705027DFACDB9293D7DFA9",
+   "C4C3674D4D6A302FB1A13C972825BFA1",
+   "984971744464A7C4D97E14BECD34702A"
+  ],
+  "en": "A mysterious design, the Bull Shark was first found in the Inner Sphere in the wreckage of a ship named Dobrev. The origins and class of the Dobrev is just as unknown as the origins of the 'Mech itself. Since the initial discovery, a few other examples of this heavily armed assault mech have surfaced with little more information about its origin.",
+  "ko": "정체불명의 설계인 불 샤크는 이너스피어에서 도브레프라는 이름의 함선 잔해 속에서 처음 발견되었습니다. 도브레프의 기원과 함급은 이 메크의 기원만큼이나 알려진 바가 없습니다. 첫 발견 이후 이 중무장 강습 메크가 몇 기 더 나타났지만, 그 기원에 대한 정보는 거의 늘지 않았습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D614E24C457F41B235819988548A6641",
+   "BCE5839F4F34AF25D3DD68B31EFAE21E",
+   "EADF1ED9405FCD895E968F91730B2E0A",
+   "C2BF872C4F02EA0A87D1059054681454",
+   "362A99014A7FB480F382F0B2E457B8C9",
+   "5606E8054E5E98229AA53D9C065FEF45",
+   "F0D906AF42D7A6711AE5F7906803A5E7",
+   "803E60D846DCD88BCDA4C6808FAEE204"
+  ],
+  "en": "A superior fire 'Mech Developed by StarCorps, The Free World’s League’s answer to the Archer. Possesses good speed for its size, thanks to a strand 255 fusion engine, enabling it to push the pace against both heavy and assault units. Boasting fifty LRM tubes the Longbow can provide superior missile support, but that is offset by a small laser backup and a lack of armor CASE that renders it vulnerable during close combat encounters, especially against ammo blasts.",
+  "ko": "스타코프스가 개발한 뛰어난 화력 지원 메크로, 아처에 대한 자유 행성 연대의 대답입니다. 스트랜드 255 핵융합 엔진 덕분에 덩치에 비해 속도가 좋아, 헤비 메크와 강습 메크를 상대로도 전투의 속도를 주도할 수 있습니다. 50문의 LRM 발사관을 자랑하는 롱보우는 탁월한 미사일 지원을 제공할 수 있지만, 예비 무장이 소형 레이저뿐이고 CASE가 없어 근접전, 특히 탄약 유폭에 취약하다는 약점이 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C26FB27645A032A2D3F473B9BBE26B61"
+  ],
+  "en": "A top of the line sensor enhancement suite that augments a 'Mech’s detection capabilities. Extends base sensor range, and allows for the detection of units outside of line of sight within the probe's enhanced sensor range. Removes the HUD distortion caused by hostile ECMs.",
+  "ko": "메크의 탐지 능력을 강화하는 최고급 센서 강화 장비입니다. 기본 센서 범위를 늘리고, 프로브의 강화된 센서 범위 안에서 시야 밖에 있는 유닛도 탐지할 수 있게 합니다. 적 ECM이 일으키는 HUD 왜곡을 제거합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "652FCF404E15B8FE2CAF36A5004B312C"
+  ],
+  "en": "Add (or remove) cbills from the inventory in a campaign.\n\nExample:\naddcbills 10000",
+  "ko": "캠페인에서 인벤토리에 C-빌을 추가(또는 제거)합니다.\\n\\n예시:\\naddcbills 10000"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9876022F4E49F952DBFC5C8F7B14ED79"
+  ],
+  "en": "Add a weapon (or multiple) to your inventory by specifying the asset name and amount.\n\nExample:\naddweapon BinaryLaser79_Lvl3 8",
+  "ko": "에셋 이름과 수량을 지정해 인벤토리에 무기를 하나(또는 여러 개) 추가합니다.\\n\\n예시:\\naddweapon BinaryLaser79_Lvl3 8"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "922ECC3446CAE032D30472B6C298AE8C"
+  ],
+  "en": "Add an equipment (or multiple) to your inventory by specifying the asset name and amount.\nIf the value is negative it will remove equipment instead.\n\nExample:\naddequip GYRO_UL 3",
+  "ko": "에셋 이름과 수량을 지정해 인벤토리에 장비를 하나(또는 여러 개) 추가합니다.\\n값이 음수이면 장비를 제거합니다.\\n\\n예시:\\naddequip GYRO_UL 3"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1AD3915F41D6FF0C67720EB3B34305C8"
+  ],
+  "en": "Add one (or multiple) Mech Salvage partial mech to your inventory.\nParameters:\n- The name of the mech variant\n- The number of partial salvage parts to add (optional, defaults to 1)\n\nExample:\naddpartial AS7-D [5]",
+  "ko": "인벤토리에 메크 부분 회수품을 하나(또는 여러 개) 추가합니다.\\n매개변수:\\n- 메크 파생형 이름\\n- 추가할 부분 회수 부품 수 (선택, 기본값 1)\\n\\n예시:\\naddpartial AS7-D [5]"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "4074F244412732515AFCEA9F4533E476"
+  ],
+  "en": "Advanced Fire Control System that predicts projectile trajectory and drop of the actually selected ballistic weapon (Autocannons, PPCs, Gauss, etc) and selected enemy unit movement for pinpoint accuracy while in combat, by drawing a crosshair on the HUD at the optimal aim location. Based on Navid A1's code from Reloaded.",
+  "ko": "고급 사격 통제 시스템입니다. 현재 선택한 탄도 무기(오토캐논, PPC, 가우스 등)의 탄도와 낙차, 그리고 선택한 적 유닛의 움직임을 예측해 HUD의 최적 조준 지점에 조준선을 그려 줌으로써 전투 중 정밀한 명중을 돕습니다. Reloaded의 Navid A1 코드를 기반으로 합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "22182BB5447FDC42D99025970683DD8E"
+  ],
+  "en": "Advances to the set year in the campaign timeline.\nForward only!\nMust pay quarterly upkeep costs!\n\nExample:\nadvanceyear 3043",
+  "ko": "캠페인 타임라인을 지정한 연도로 넘깁니다.\\n앞으로만 갈 수 있습니다!\\n분기별 유지비를 지불해야 합니다!\\n\\n예시:\\nadvanceyear 3043"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "00EEB052401D9F883C9C41B71ECA3319",
+   "A04E49E2411AB1D33563B9AB85DC3D9B"
+  ],
+  "en": "Also known as Glazed or Reflec armor, the first batch of Laser Reflective Armor was created by accident on a Ferro-Fibrous armor production line. Laser Reflective Armor dissipates energy weapon attacks 50% more efficiently than other armor types, reducing the amount of damage taken by the 'Mech mounting it. Despite the name, Laser Reflective Armor is effective against all energy weapons, not just lasers. PPCs, Flamers, and Plasma Rifles and Cannons are all less effective against it.",
+  "ko": "글레이즈드 또는 리플렉 장갑이라고도 불리는 레이저 반사 장갑의 첫 생산분은 페로-파이브러스 장갑 생산 라인에서 우연히 만들어졌습니다. 레이저 반사 장갑은 에너지 무기 공격을 다른 장갑보다 50% 더 효율적으로 분산시켜, 이를 장착한 메크가 받는 피해를 줄입니다. 이름과 달리 레이저 반사 장갑은 레이저뿐 아니라 모든 에너지 무기에 효과가 있습니다. PPC, 화염방사기, 플라스마 라이플과 캐논 모두 이 장갑에는 효과가 떨어집니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DF39EECB4605C53351E4CB98A5AB5F13"
+  ],
+  "en": "Although based on the Wolverine WVR-6R model and designed to serve a similar role, as a heavy scout, the WVR-7H had so many improvements and upgrades to the latest technology that it was dubbed the Wolverine II. It was produced exclusively for use by the Star League Defense Force Royal Divisions during the Amaris Civil War, and it was thought that all Wolverine IIs that survived the war had left the Inner Sphere as part of General Aleksandr Kerensky's exodus.",
+  "ko": "울버린 WVR-6R 모델을 기반으로 하고 중형 정찰기라는 비슷한 역할을 위해 설계되었지만, WVR-7H는 개량점과 최신 기술로의 업그레이드가 워낙 많아 울버린 II로 불리게 되었습니다. 아마리스 내전 당시 성간 연대 방위군 로열 사단 전용으로만 생산되었으며, 전쟁에서 살아남은 울버린 II는 모두 알렉산드르 케렌스키 장군의 엑소더스와 함께 이너스피어를 떠난 것으로 여겨졌습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "36E0A6FB4CFCB2448AFC23A31027C735",
+   "C7ECBE694BC2DAD4A18A54887E629815"
+  ],
+  "en": "An OmniMech is a highly configurable type of BattleMech which allows for much faster changes in loadout thanks to the use of OmniPods. This comes with a certain disadvantage in terms of flexibility as their core components are fixed.",
+  "ko": "옴니메크는 옴니포드를 사용해 무장 구성을 훨씬 빠르게 바꿀 수 있는, 구성 변경이 자유로운 배틀메크의 한 종류입니다. 다만 핵심 부품이 고정되어 있어 유연성 면에서는 일정한 불이익이 따릅니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "CBEDFF4E4FF5F9152E718998B66187FD"
+  ],
+  "en": "Automated rapid-fire weapon that tracks and shoots down missiles (non-mech). Cant be salvaged or installed on mechs.",
+  "ko": "미사일을 추적해 격추하는 자동 속사 무기입니다(메크용 아님). 회수하거나 메크에 설치할 수 없습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A3913ED04FDA5B1127BBB683720C08EA"
+  ],
+  "en": "Balanced mode is the mode we try to somewhat balance. It should be challanging but not harsh. Feedback is welcome.",
+  "ko": "밸런스 모드는 저희가 어느 정도 균형을 맞추려고 노력하는 모드입니다. 도전적이되 가혹하지는 않도록 했습니다. 의견은 언제든 환영합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9E7888254106374EA777F3BFDA5821DF"
+  ],
+  "en": "Based on the C3 system, the improved C3 computer (or C3i) combines the functions of a C3 command unit and C3 client units into a single system. Unlike a standard C3 lance, where interruption or destruction of the C3 master computer brings down the network, each C3i unit acts as an equal \"cellular\" partner in the network, making C3i networks more robust. A C3i is able to survive and function despite unit losses or the effects of electronic countermeasures.",
+  "ko": "C3 시스템을 기반으로 한 개량형 C3 컴퓨터(C3i)는 C3 지휘 유닛과 C3 클라이언트 유닛의 기능을 하나의 시스템으로 통합합니다. C3 마스터 컴퓨터가 교란되거나 파괴되면 네트워크가 끊기는 일반 C3 랜스와 달리, 각 C3i 유닛은 네트워크에서 동등한 \"셀룰러\" 파트너로 작동하므로 C3i 네트워크는 더 견고합니다. C3i는 유닛 손실이나 전자 방해의 영향 속에서도 살아남아 작동할 수 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1F3C25C948FB2E5D973B23AB0A77165E",
+   "73E0791D485886DE3FE35381C3EE9442"
+  ],
+  "en": "Based upon Comstar's groundbreaking XL gyro has Vining Engineering and Salvage Team managed to push the technology even further, further reducing the weight of the mechs gyro, but doubling its size going even into the side Torsos. Requires 2 slots in CT and 2 in each ST.",
+  "ko": "컴스타의 획기적인 XL 자이로를 바탕으로, 바이닝 엔지니어링 및 구조팀은 이 기술을 한층 더 발전시켰습니다. 메크 자이로의 무게를 더욱 줄였지만 크기는 두 배가 되어 측면 동체까지 차지합니다. CT에 2슬롯, 각 ST에 2슬롯이 필요합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "04A37E2B42D8BC080199FEBED13A26C6",
+   "EC0AE6CC47E6F2EA0651D9AF01F572E8"
+  ],
+  "en": "Based upon the Light Ferro-Fibrous compound developed by Free Worlds League scientists, Durallex developed Heavy Ferro-Fibrous armor for the Lyran Alliance Armed Forces in 3069. The result was a bulkier armor that was stronger. Uses 21 dynamic slots.",
+  "ko": "자유 행성 연대 과학자들이 개발한 라이트 페로-파이브러스 복합재를 바탕으로, 듀랄렉스는 3069년 라이란 동맹군을 위해 헤비 페로-파이브러스 장갑을 개발했습니다. 그 결과 부피는 더 크지만 더 튼튼한 장갑이 탄생했습니다. 동적 슬롯 21개를 사용합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "CE690F1B4CF3FE401F9F6782560CFE51"
+  ],
+  "en": "C.A.S.E. II is an experimental version of standard C.A.S.E. When an internal explosion occurs, C.A.S.E. II reduces the damage to the Internal Structure of the installed location, making it take only 2 points of damage. Can be installed on any component.",
+  "ko": "C.A.S.E. II는 표준 C.A.S.E.의 실험 버전입니다. 내부 폭발이 일어나면 C.A.S.E. II는 설치된 부위의 내부 구조가 받는 피해를 줄여 2포인트의 피해만 받게 합니다. 어느 부위에나 설치할 수 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0474FFB64C692B971136CFB9432AE443"
+  ],
+  "en": "C.A.S.E. is short for Cellular Ammunition Storage Equipment. In an internal explosion event, C.A.S.E. prevents the explosion from travelling to adjacent mech compartments. While C.A.S.E. does not prevent damage to occur in the protected area, it does prevent it from passing through, helping to prevent internal explosions to reach the center torso of a mech. Can't be installed on arms and legs.",
+  "ko": "C.A.S.E.는 셀룰러 탄약 보관 장비(Cellular Ammunition Storage Equipment)의 줄임말입니다. 내부 폭발이 일어났을 때 C.A.S.E.는 폭발이 인접한 메크 구획으로 번지는 것을 막습니다. 보호 구역 안에서 발생하는 피해를 막지는 못하지만 피해가 그 너머로 전달되지 않게 하여, 내부 폭발이 메크의 중앙 동체에 닿는 것을 방지합니다. 팔과 다리에는 설치할 수 없습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B18AB5DD4DAD7BCFD901C8A1321B2010",
+   "9DCDC8EF4EB4AB9A0A2C27ACB8DDF615"
+  ],
+  "en": "CENTER TORSO IS DESTROYED. REPAIR IS NOT POSSIBLE.\nFAHAD SAYS: GOOD JOB BOSS, LESS WORK FOR ME.",
+  "ko": "중앙 동체가 파괴되었습니다. 수리가 불가능합니다.\\n파하드의 한마디: 잘하셨어요, 보스. 제 일이 줄었네요."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B168833F47C193DCC79DB8BACFE84AE2"
+  ],
+  "en": "Clan C.A.S.E. II is an experimental version of standard C.A.S.E. When an internal explosion occurs, C.A.S.E. II reduces the damage to the Internal Structure of the installed location, making it take only 2 points of damage. Can be installed on any component.",
+  "ko": "클랜 C.A.S.E. II는 표준 C.A.S.E.의 실험 버전입니다. 내부 폭발이 일어나면 C.A.S.E. II는 설치된 부위의 내부 구조가 받는 피해를 줄여 2포인트의 피해만 받게 합니다. 어느 부위에나 설치할 수 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "963DB613438C01F8F9BF24BFF8523D19",
+   "7E0EC7134B079BE953ED0CB07D4D1BB5"
+  ],
+  "en": "Clan Endo-Steel internal structure upgrade. The kit requires 7 free slots and weighs 5% of the mech max tonnage and half of its standard counterpart.",
+  "ko": "클랜 엔도-스틸 내부 구조 업그레이드입니다. 이 키트는 빈 슬롯 7개가 필요하며, 무게는 메크 최대 중량의 5%로 표준 구조의 절반입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "905E1C484C7214F9AF791E8463D7C82E",
+   "F4F03F6A4A0E4C1CDDE6728251E27C62"
+  ],
+  "en": "Clan Extra Light fusion engines weigh 50% less than standard engines (not including Gyro, etc.). However, losing a side torso would cause penalties in speed and heat dissipation (removes half of the engne's heat capacity and dissipation and limits maximum speed to 75%). This engine requires 2 free slots in each side torso. Losing BOTH side torsos will result in DEATH.",
+  "ko": "클랜 엑스트라 라이트 핵융합 엔진은 표준 엔진보다 50% 가볍습니다(자이로 등 제외). 그러나 측면 동체 하나를 잃으면 속도와 방열에 불이익을 받습니다(엔진의 열 용량과 방열 능력의 절반이 사라지고 최고 속도가 75%로 제한됨). 이 엔진은 각 측면 동체에 빈 슬롯 2개가 필요합니다. 양쪽 측면 동체를 모두 잃으면 사망합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E65C83D44B15F63510773EBD9D3FB87E",
+   "4D8316C44DEA050E4686A4903375FF54"
+  ],
+  "en": "Clan Ferro-Fibrous armor. Provides 20% more armor points (38.40) per ton. Requires 7 critical slots.",
+  "ko": "클랜 페로-파이브러스 장갑입니다. 톤당 장갑 포인트가 20% 더 많습니다(38.40). 크리티컬 슬롯 7개가 필요합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "04DF8B7B41F8C8D70EA363A4DE4E9AF4"
+  ],
+  "en": "Clan internal equipment (XL and XXL Engines,\nStruct, Armor, CASE II) included in YAML:",
+  "ko": "YAML에 포함된 클랜 내부 장비(XL 및 XXL 엔진,\\n구조, 장갑, CASE II):"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FFE95252458A748F1EDB0F97718F503B"
+  ],
+  "en": "Clan Light version of the sensor enhancement suite that augments a 'Mech’s detection capabilities. Extends base sensor range, and allows for the detection of units outside of line of sight within the probe's enhanced sensor range. Reduces the HUD distortion caused by hostile ECMs.",
+  "ko": "메크의 탐지 능력을 강화하는 센서 강화 장비의 클랜 라이트 버전입니다. 기본 센서 범위를 늘리고, 프로브의 강화된 센서 범위 안에서 시야 밖에 있는 유닛도 탐지할 수 있게 합니다. 적 ECM이 일으키는 HUD 왜곡을 줄입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C636727A4850C884DEC6C0B93C32E327"
+  ],
+  "en": "Clan version of an advanced suite of enhanced electronic countermeasures that, by default, shields friendly units within its disrupt range from hostile sensors and homing missiles. Hostiles within the disrupt range have their sensors further suppressed, and suffer accuracy penalties, against all units. Can be toggled into counter mode, which disables all hostile ECMs within its range.",
+  "ko": "고급 전자 방해 장비의 클랜 버전입니다. 기본 상태에서는 교란 범위 안의 아군 유닛을 적의 센서와 유도 미사일로부터 보호합니다. 교란 범위 안의 적은 모든 유닛에 대해 센서가 더욱 억제되고 명중률에 불이익을 받습니다. 대응 모드로 전환하면 범위 안의 모든 적 ECM을 무력화합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "45A9AF7548E5A85B308CCCB7E1F8C16D"
+  ],
+  "en": "Clan version of the top of the line sensor enhancement suite that augments a 'Mech’s detection capabilities. Extends base sensor range, and allows for the detection of units outside of line of sight within the probe's enhanced sensor range. Reduces the HUD distortion caused by hostile ECMs.",
+  "ko": "메크의 탐지 능력을 강화하는 최고급 센서 강화 장비의 클랜 버전입니다. 기본 센서 범위를 늘리고, 프로브의 강화된 센서 범위 안에서 시야 밖에 있는 유닛도 탐지할 수 있게 합니다. 적 ECM이 일으키는 HUD 왜곡을 줄입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "79C1D05443FB718EB5C04CA3685D2CC0",
+   "7FA4D42B4708B262BDF3C2875794E7AC"
+  ],
+  "en": "Clan XXL engines weigh one-third as much as standard fusion engines (not including Gyro, etc.). Clan XXL engines require 4 free slots in each side torso, and generate heat (lower heat dissipation) even when the mech is not moving, and generate twice as much heat during movement as other engines. Losing a side torso will result in DEATH.",
+  "ko": "클랜 XXL 엔진의 무게는 표준 핵융합 엔진의 3분의 1입니다(자이로 등 제외). 클랜 XXL 엔진은 각 측면 동체에 빈 슬롯 4개가 필요하고, 메크가 움직이지 않을 때도 열을 발생시키며(방열 능력 감소), 이동 중에는 다른 엔진보다 두 배의 열을 발생시킵니다. 측면 동체 하나를 잃으면 사망합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "58363BF042263167EE4236A25D3089C0"
+  ],
+  "en": "Cleans up Inventory of bogus equipment like\n* Equipment.Filler",
+  "ko": "인벤토리에서 다음과 같은 잘못된 장비를 정리합니다\\n* Equipment.Filler"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A70083454FE40E3ED4E05C9A58D69D6D"
+  ],
+  "en": "Click on number to set directly\nScary Tanks overrides Tank and VTOL",
+  "ko": "숫자를 클릭하면 직접 설정할 수 있습니다\\n무서운 전차 설정은 전차와 VTOL 설정보다 우선합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FBA23D01445F24323F42C3A9BCE39AE3",
+   "5E013454479A74E6358DD0AC7D5CF879"
+  ],
+  "en": "Click to open YAML Discord\nhttps://discord.gg/YetAnotherMW5Server",
+  "ko": "클릭하면 YAML 디스코드가 열립니다\\nhttps://discord.gg/YetAnotherMW5Server"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A5D3DF324236D33F7E6429B0D588B5FC"
+  ],
+  "en": "Close to vanilla values, financial gameplay is easy (and maybe boring?).",
+  "ko": "바닐라에 가까운 수치로, 재정 운영이 쉽습니다(어쩌면 지루할지도?)."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E335617841AB5E9DA28C729861AB4DF4",
+   "53425E764D0E00C54D2613AC10AAC612"
+  ],
+  "en": "Compared to their Star League and Succession War-era counterparts, primitive engines are larger and less efficient; typically, modern engines are 80% the size of these early engines for the same amount of power.",
+  "ko": "성간 연대 및 계승 전쟁 시대의 엔진에 비해 원시형 엔진은 더 크고 효율이 낮습니다. 일반적으로 현대 엔진은 같은 출력을 낼 때 이 초기 엔진 크기의 80%입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "42F99F56468B6058B445DF9938768777"
+  ],
+  "en": "Describe an asset, listing certain details about it.\nCurrently only mech variants are supported.\n\nExample:\ndescribe AS7-D",
+  "ko": "에셋의 세부 정보를 나열해 설명합니다.\\n현재는 메크 파생형만 지원합니다.\\n\\n예시:\\ndescribe AS7-D"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9D7A936C43C652279F468981033CD0D5",
+   "69B1F113438130BDA14AF59E654E2F11"
+  ],
+  "en": "Developed by ComStar in 3067, much like the XL Engine, the XL Gyro is constructed from lighter though more bulky material and components, increasing the size of the gyro by half in exchange for halving its weight. Requires 2 slots in CT.",
+  "ko": "3067년 컴스타가 개발한 XL 자이로는 XL 엔진과 마찬가지로 더 가볍지만 부피가 큰 소재와 부품으로 만들어져, 무게가 절반으로 줄어드는 대신 자이로의 크기가 절반만큼 늘어납니다. CT에 2슬롯이 필요합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "BA0C0EF64D2BDB777F1453A4C0356358"
+  ],
+  "en": "Disable Clan Invasion Pirate weapons,\nequipment and TPI Mechs",
+  "ko": "클랜 침공 해적 무기,\\n장비, TPI 메크 끄기"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "00249DB9497120D7A9E033AB75656013",
+   "B33966A54C4EDE1CEE1EF4AC17D68859"
+  ],
+  "en": "Endosteel Structure. Weighs half of standard structure (max weight / 10) tons, rounded up to the nearest full ton. Requires 14 critical slots.",
+  "ko": "엔도-스틸 구조입니다. 무게는 표준 구조의 절반(최대 중량 / 10)이며, 톤 단위로 올림합니다. 크리티컬 슬롯 14개가 필요합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "26663A63461733F153E4ADB55A0E8706"
+  ],
+  "en": "Enter part of equipment or weapon\n- long or short name\n- manufacturer\n- description\n- intro date\n- DLC tag (DLC1 DLC2 etc)",
+  "ko": "장비 또는 무기의 일부를 입력하세요\\n- 긴 이름 또는 짧은 이름\\n- 제조사\\n- 설명\\n- 도입 연도\\n- DLC 태그 (DLC1 DLC2 등)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3D0EB27A4273AEB014E8C5B3B6D17FA1"
+  ],
+  "en": "Export current savegame settings to\ntext file in MW5Mercs/Mods folder:\n_yaml_export_savegamesettings.txt",
+  "ko": "현재 세이브 게임 설정을\\nMW5Mercs/Mods 폴더의 텍스트 파일로 내보냅니다:\\n_yaml_export_savegamesettings.txt"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "4A74EE144F2D1D0A39937C9246EFAC81",
+   "31BD5D6C4F3C1F6FC53D9999C80165AB"
+  ],
+  "en": "Ferro-Fibrous armor. Provides 12% more armor points (35.84) per ton. Requires 14 critical slots.",
+  "ko": "페로-파이브러스 장갑입니다. 톤당 장갑 포인트가 12% 더 많습니다(35.84). 크리티컬 슬롯 14개가 필요합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0DB9B1E24012CE186DE6C79A4516A9A7"
+  ],
+  "en": "Finds the following units (Pawns controlled by a Controller)\ncurrently existing on the map: Mechs, VTOLs, Turrets, Tanks\nTeamID | Type | Name | Skill | Range | DisplayName \n\nExample:\nlistpawns",
+  "ko": "현재 맵에 존재하는 다음 유닛(컨트롤러가 조종하는 폰)을\\n찾습니다: 메크, VTOL, 포탑, 전차\\nTeamID | Type | Name | Skill | Range | DisplayName \\n\\n예시:\\nlistpawns"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C07A0D1C46E0D63FA01A3D8A67D6446B"
+  ],
+  "en": "First fielded in 2765, the Atlas II was designed by the Hegemony Research and Development Department, Weapons Division of the original Star League to maintain the technological edge over the other Great Houses. It was exclusively for the SLDF's Royal Regiments.",
+  "ko": "2765년에 처음 배치된 아틀라스 II는 다른 대가문들에 대한 기술적 우위를 유지하기 위해 본래 성간 연대의 헤게모니 연구개발부 무기국이 설계했습니다. SLDF의 로열 연대 전용 기체였습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0BF583CF4A10A9DD95B93C860372A08C"
+  ],
+  "en": "First introduced by the Federated Suns in 3067, a Small Cockpit is a special cockpit for BattleMechs. By reducing the weight and support equipment the small cockpit only weighs two-thirds as much as a standard cockpit. It also frees up room in the 'Mech's head, so larger equipment can be mounted there. These advantages are offset by the reduced life support equipment and the generally cramped conditions that are forced on the MechWarrior.",
+  "ko": "3067년 항성 합중국이 처음 도입한 소형 조종석은 배틀메크용 특수 조종석입니다. 무게와 지원 장비를 줄여 소형 조종석의 무게는 표준 조종석의 3분의 2에 불과합니다. 또한 메크 머리의 공간에 여유가 생겨 더 큰 장비를 탑재할 수 있습니다. 이러한 장점은 줄어든 생명 유지 장비와 멕워리어가 감내해야 하는 전반적으로 비좁은 환경으로 상쇄됩니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3F8763444B0E4A7098786AA1D6EE493E"
+  ],
+  "en": "First public release of Yet Another Mechlab.\nRIP Navid A1's Reloaded.",
+  "ko": "Yet Another Mechlab의 첫 공개 릴리스.\\nNavid A1의 Reloaded여, 편히 잠들길."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1B2825964C129585212565A5F0CDC52A"
+  ],
+  "en": "Florentine is the evocative 'Mech of Thomas Faber, known to most only by his code name Broadsword. Despite piloting a 'Mech built for standard combat, Faber's role is anything but typical. As a MechWarrior, his skills are as renowned as his devotion to Comstar and the newly formed ComGuards. Through blurry allegiances and webs of deceit spanning a decade or more, Faber has set himself apart from many of the newly minted ComGuard MechWarriors.  He credits his recent success to the unyielding support of his wife Vivian and his newborn daughter Judith.",
+  "ko": "플로렌틴은 대부분의 사람들에게 브로드소드라는 코드명으로만 알려진 토머스 페이버의 인상적인 메크입니다. 일반 전투용으로 제작된 메크를 조종하지만, 페이버의 역할은 전혀 평범하지 않습니다. 멕워리어로서 그의 기량은 컴스타와 새로 창설된 컴 가드에 대한 헌신만큼이나 유명합니다. 10년이 넘도록 이어진 모호한 충성 관계와 기만의 그물 속에서, 페이버는 새로 임관한 많은 컴 가드 멕워리어들과 차별화된 존재가 되었습니다. 그는 최근의 성공을 아내 비비안과 갓 태어난 딸 주디스의 변함없는 지지 덕분으로 돌립니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "047B7621418DC9B4FE67DF82E27A8D62"
+  ],
+  "en": "For Eric (ROAM - Mellow Seven). Look ma, no hands! -cszolee79",
+  "ko": "Eric(ROAM - Mellow Seven)에게. 엄마, 봐요, 손 안 대고도 해요! -cszolee79"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "27310694498457C112C1D6AD32F1A151"
+  ],
+  "en": "From original BATTLETECH/MechWarrior creator Jordan Weisman and the developers of the award-winning Shadowrun Returns series comes the next-generation of turn-based tactical 'Mech combat.The year is 3025 and the galaxy is trapped in a cycle of perpetual war, fought by noble houses with enormous, mechanized combat vehicles called BattleMechs. Take command of your own mercenary outfit of 'Mechs and the MechWarriors that pilot them, struggling to stay afloat as you find yourself drawn into a brutal interstellar civil war. Upgrade your starfaring base of operations, negotiate mercenary contracts with feudal lords, repair and maintain your stable of aging BattleMechs, and execute devastating combat tactics to defeat your enemies on the battlefield.",
+  "ko": "BATTLETECH/MechWarrior의 원작자 조던 와이즈먼과 수상 경력에 빛나는 Shadowrun Returns 시리즈의 개발진이 선보이는 차세대 턴제 전술 메크 전투. 때는 3025년, 은하는 귀족 가문들이 배틀메크라 불리는 거대한 기계화 전투 병기로 싸우는 끝없는 전쟁의 굴레에 갇혀 있습니다. 메크와 그것을 조종하는 멕워리어들로 이루어진 자신만의 용병단을 지휘하며, 잔혹한 성간 내전에 휘말리는 가운데 살아남기 위해 분투하십시오. 우주를 누비는 작전 기지를 업그레이드하고, 봉건 영주들과 용병 계약을 협상하고, 낡아 가는 배틀메크들을 수리하고 정비하며, 파괴적인 전투 전술로 전장에서 적을 무찌르십시오."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "EE9A66104ED8B5E23DC28B830F8803FE"
+  ],
+  "en": "Fusion engines function by harnessing the power of a fusion reaction, running on light hydrogen and protium. Fusion engines are defined by their engine rating. For 'Mechs, the engine rating is the mathematical product of the mass of the vehicle and its desired maximum walking or cruising velocity.",
+  "ko": "핵융합 엔진은 경수소와 프로튬으로 구동되는 핵융합 반응의 힘을 이용해 작동합니다. 핵융합 엔진은 엔진 등급으로 구분됩니다. 메크의 경우 엔진 등급은 기체의 질량과 목표 최대 보행(순항) 속도를 곱한 값입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D0093EC14204003C7B0C81BA9FC235B1",
+   "092E6C3543E9D6400D4334B6813C1941",
+   "60D077904F3C7D7F1A12FEA2642343C1",
+   "E8C7C4D744F3C29AF05F3C91AA1B1C27",
+   "8467DC954E41E1947CE08E9A2FC0715A",
+   "50440AE54599C994F74316BA7953BC89",
+   "1D4FDF1A41CEE0AD27FDEDBE04DD43D1",
+   "709B20F7411AD94B359FD5B02B29CE80",
+   "EBA4C4B64AA1FDB2E259C28673D09B66",
+   "9B8434E246CCFC33CBC398A9C9EEE827",
+   "BB28E6F44C7486DBDCAB49849147A7C9",
+   "3FA23DAE4AA5FE528C70E69874FC8305",
+   "8AAD16D7445DA30D2989D0820A57247B",
+   "FB81DF824DECFDF80CC54EB0D5932181",
+   "E2DFD1484A04C1E6FB8B2FA835AC93F1",
+   "99639D1148D83743A9AFC0A7C25DF62E",
+   "B6EBFA114C34F02F14E774B9AC35F259",
+   "E97A4BC44E19808FC98DB2B2835272AA",
+   "7E8ABD2D469F31944B0166A351CB5A68",
+   "232D58BA4F185ACECB1DD995849AF890",
+   "4D5C29DD47F04D6C785BFBB99285EE83",
+   "BA8A943D4D2C14263F9AC9A6C45D9B41",
+   "0081630F4661ADDA40EC5D92D33133EE",
+   "B73135434E04D4AB1E754CB515982533",
+   "AEE2A97047A2D876D30360B9711FAF96",
+   "BC14D0E34F6A9D8E947AD793AEC6EA0D",
+   "5AFE813A4AF3AB9D7A31E08ED5CAAB6D",
+   "63F3929F4E557409B0375A979E28E619",
+   "48540D554A3751C90A5366BFC8DE8A99",
+   "09A392BE45358589ACCB13877C533B81",
+   "9879D3D4401237B99E727DB0C21F1BBD",
+   "3A1876C149BE765233CCF1B0B648BA67",
+   "4DBB9E184F4E0BAAA2FC29B55B00DC44",
+   "E58404D44A833C10408DDA86AD5B050D",
+   "EF9BB2B54910435A034969AE0A0109C2",
+   "EC63FF544D49B0CF41F02485C14B2691",
+   "BF58174D4C22C28FCF2DBF9E2E4C5ACD",
+   "AA66980B4EAB50446E8F0CBC407C090B",
+   "3B8F456A44A9D5E8375B8095FE19FC7D",
+   "74E6D9044ED091082D58B9ABA84280F5",
+   "BE35F3164C9F575FCFFE41A0735B8B28",
+   "E4AC891847F0F54D9CBFF0A7042A7BF8",
+   "154157334EB583FB6786A4834F04D5E3",
+   "03BDE5A642B327BA2761F2A09FC1B99A",
+   "646B7B6443637C7C811115914338A6BB",
+   "0C3E9486472461FFA1E1B9ADF24C3D4E",
+   "EC99B2B04521B2EB5637E180C4CDFD3B",
+   "18C407214A265A0FFB22749707331783",
+   "C8BE6A3F4C7629179F21A9835B9B15A4",
+   "84A56C3E470ACF47C9FBD1892E77CAD9",
+   "F569C33F4D021AF7ECC69E9D005D25E1",
+   "71D3AE5D428E0E6CF7348CAE944AF675",
+   "2D54D7EA4BD7C8C95BD1519BAEF6CC4E",
+   "14F1E3964FAB33891CC919B1B0FBA360",
+   "494B30754F74E06EA09F8CB39F9E2DAA",
+   "BEF452BE48DAAB1494269CA489176010",
+   "FE1380FB4DD4BD6AE2B59993CD5BFD87",
+   "B07820824F9E3E1D32B0DE9994B43C8F",
+   "3450EAAE48A3E5939E7BB99DBA391CCB",
+   "317889BF4E198BD8D1A469870DC0CCED",
+   "CF733AF647ACF5E28C1869BD13798AEB",
+   "5AF760DE427987BB10C402A173466660",
+   "DD1FF7324AF8704CCE0B92B8AE1B1ABA",
+   "68CA1FF34F2F9F2DC67A2C9A45E41C20",
+   "6CCB4D854ACF5D3AD7842E9BAFF8779F",
+   "773BCD434BFF2468D98374AA827AB1D8",
+   "662BA7C844351C746645429EEEFDE879",
+   "007793C3448135CDC6FA059AC797C33F",
+   "92EBB46845255D9AE029A58B78368E79",
+   "4EED4D5B435EBE109DD49CA9223AACE2",
+   "7A5596A54119935DD53C47903B7D31AD",
+   "B7AFACBD42784D5250834CB633E39F93",
+   "86F47E06402A4207F1BB3F8A2FFAA667",
+   "3C203D8F404572A9933B17BB7BE192A6",
+   "B29F4F274E1B0507A9BFF096DDA34A06",
+   "6A4DE7F34BCF809BDADEA8A3C1B2401D",
+   "B043A57B4DCEE547CF8745925EAC99E6",
+   "633E5A0E4D14F023BDDC30B0A9EB0EC5",
+   "4CEDE34948C2504EF3D7C1A2EE669061",
+   "0F2E528946DBC07E2F9C38B442934FBA",
+   "A533C2544D8F81D34D9840A2AAF13AE5",
+   "4C4143484A9801B0D80536B648466163",
+   "606C64F942805359A22A499F170E0437",
+   "1CABE949423AA2B2CE2F2FB90DEF8110",
+   "55DC10A74B14FBB5EA02BB93C1BA8331",
+   "BCAFC3C94EA2358237C109BBD6F009E2",
+   "0FC233974A749721919871B6B0641188",
+   "EC3729D2414D0E438BF4C8AA569B9937",
+   "5E7C1F814F5D1F4E216974B97E1C5A0A",
+   "54E2B15E4A76B2BC5BBC6185BE969DD7",
+   "EF68DE154F0F4E11A1D1CBB1AFF2D2B2",
+   "5A6250714E772399C460AFB50B97A41E",
+   "F9CC815F4B78D70F3C1487A5D535FE63",
+   "6B15601445E986D2A74F55AFED49B68F",
+   "3C3F99B948E560416B2159A61D656E0C",
+   "AEE51A954DE6565D27B2FBBAF20414E0",
+   "3A04E3ED41C10C8A7474309174299C79",
+   "4671A891476ECF857C6CBC93CD2422AB",
+   "23AC2479412C25FF7BCCA6A22CB5F3A7",
+   "38F81892423492F332DE8DA0DFA969F8",
+   "65213734469D5780E2E29FAF70C458F4",
+   "3B0CCB8E4B4B9A580AFB8CA2F54C72D0",
+   "D31B4F41449291101B6D82AC123868FA",
+   "9F85CC27478191C74013898882BFBB5D",
+   "79990AA044DA2E72BC79E5BE333DB48D",
+   "161412214E7A823B3978F5B0F60F98BB",
+   "64CB13544A539AFF953BE18A8F9168A9",
+   "EA1F1FCC454BABFF87D6BC95BD753589",
+   "B0D546BF4910D05D6C87529A06CDC848",
+   "F00198AA45D3B572B901C383524E367C",
+   "F3DA396D43E3C53214094893AA3747B5",
+   "DE9D9DAD4A1FE430363DFF8D1FF5EA1A",
+   "D5E20F9C4BFDAB0B11201EAF7459DCE1",
+   "58196E6C48B4A8A65999A7AB02A355EC",
+   "D2B566AE4F0019FC574F4BB7E127CA9B",
+   "4A719DC740AF7C50597D44BB3B47D52B",
+   "1349A3FD4FEEDD13BE4DED9E87AE01D1",
+   "78FC698A42A158288645C8985ABA88A8",
+   "4B4A98AE4EC9F437294D73ADFF431668",
+   "7FE5B87E4D734E1389A1DD8EE5E89B58",
+   "B2C731B34B3A6315EFF355803088E056",
+   "5B53D47049BE357B329BC5ABA8AC11F6",
+   "ECF25B5F4A20B0F4C6010DB864566425",
+   "61C113D446EA96BFA9CE55A14258568B",
+   "30D135BE4D2B28A8128477B0BB9909F5",
+   "C5B02C40482D4A7636D2E4A71477D754",
+   "275919E6440A85A95E5D1AB224FFEA1A",
+   "EC2DCDC04CD6A56ACC5E239D2B6541EC",
+   "5FA385244B779347E9D3319ACADA8D45",
+   "9061ADBD476E1462FC26C680BB9B6A93",
+   "E76F7B6B4388E9D56E86AC98E0F495F7",
+   "43C18429484DA06CAA054696D039EEC5",
+   "61602D9A4CC3D1297ECDDC8889EEDE81",
+   "BCA8857A4EC5B1C832F95B88D7FDF737",
+   "5D076B8C4104DFAB524912AC752743C3",
+   "2538D75E4707024B6E375383718663D4",
+   "48F211864CC8641D5E02A595E50E7A03",
+   "AB32027144C95402D5467DB2FC3AEB8B",
+   "46051C2C43C3EBD674E1EA906ECE4A5E",
+   "165FC6D14715FA56DAD909A671AE2061",
+   "1DE8D893459A2CFFCF12F9B8BF16DB77",
+   "6A61AE8F41AC87CBDDC0A1988794719D",
+   "5F7C39134F86CA09CFC57BB088B821E4",
+   "F206B457436A910EA97EC8852A618111",
+   "08ABA3E3477A9A6CE21F019A0214AA2D",
+   "6E00F29C4B9E33EE680BFDABE4408801",
+   "6FF4912942F1D708B24AA38ED1197DF9",
+   "35DD84E4417D2C3A5A3749B9CF62F6C2"
+  ],
+  "en": "Fusion engines function by harnessing the power of a fusion reaction, running on light hydrogen and protium. Fusion engines are defined by their engine rating. For 'Mechs, the engine rating is the mathematical product of the mass of the vehicle and its desired maximum walking or cruising velocity. Max speed calculation: Engine Rating / Max Weight * 16.2",
+  "ko": "핵융합 엔진은 경수소와 프로튬으로 구동되는 핵융합 반응의 힘을 이용해 작동합니다. 핵융합 엔진은 엔진 등급으로 구분됩니다. 메크의 경우 엔진 등급은 기체의 질량과 목표 최대 보행(순항) 속도를 곱한 값입니다. 최고 속도 계산: 엔진 등급 / 최대 중량 * 16.2"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "EACCF32C43535C5FB63A93BFC385366C"
+  ],
+  "en": "Game has very old RTX version, will\nbe very slow and crash on Solaris.\nPlease turn off Ray Tracing in settings.",
+  "ko": "게임의 RTX 버전이 매우 오래되어\\n솔라리스에서 매우 느려지고 충돌합니다.\\n설정에서 레이 트레이싱을 꺼 주세요."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C93D2EB34FBB51F0B9BC7987AE2513C1"
+  ],
+  "en": "Headlights will not be visible if\nShadows is set to Medium.\nPlease choose a different Graphics setting",
+  "ko": "그림자 품질이 중간으로 설정되어 있으면\\n헤드라이트가 보이지 않습니다.\\n다른 그래픽 설정을 선택해 주세요"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5621F5C84BE295D448F1D08AE87D1612"
+  ],
+  "en": "Heat banks can accumulate large amounts of heat, but offer no dissipation. Explodes for 10 damage when destroyed.",
+  "ko": "히트 뱅크는 많은 양의 열을 축적할 수 있지만 방열 기능은 없습니다. 파괴되면 폭발해 10의 피해를 줍니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C88D346C425C2C6CC00E10B0BF184BD1"
+  ],
+  "en": "Heat banks can accumulate large amounts of heat, but offer no dissipation. Explodes for 15 damage when destroyed.",
+  "ko": "히트 뱅크는 많은 양의 열을 축적할 수 있지만 방열 기능은 없습니다. 파괴되면 폭발해 15의 피해를 줍니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "198F66994761A7B0E5C216995E902C37"
+  ],
+  "en": "Heat banks can accumulate large amounts of heat, but offer no dissipation. Explodes for 5 damage when destroyed.",
+  "ko": "히트 뱅크는 많은 양의 열을 축적할 수 있지만 방열 기능은 없습니다. 파괴되면 폭발해 5의 피해를 줍니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D59AD98D423120AFF1197491863342F9"
+  ],
+  "en": "HEY BOSS! WE GOT ENOUGH SALVAGE\nTO PUT SOMETHING TOGETHER.\nIT'LL BE A SURPRISE, EH?",
+  "ko": "보스! 뭔가 하나 조립할 만큼\\n회수품이 모였어요.\\n뭐가 나올지는 비밀이에요, 어때요?"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DFD580984A993FBA5E25A2BA7ED077FE"
+  ],
+  "en": "HEY BOSS! WE GOT ENOUGH SALVAGE SALVAGE\nTO PUT SOMETHING TOGETHER.\nIT'LL BE A SURPRISE, EH?",
+  "ko": "보스! 뭔가 하나 조립할 만큼\\n회수품이 모였어요.\\n뭐가 나올지는 비밀이에요, 어때요?"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "20AE5295440D54075A53979E17D3FA80"
+  ],
+  "en": "Immediately finishes all work orders of the following types:\n\nMech Refits and repairs\n (MechRefitTimelineEvent)\nMech Upgrades installation\n (MechTraitsRefitTimelineEvent)\nPilot recovery\n (PilotRecoveryTimelineEvent)\nPilot transit\n (PilotInTransitTimelineEvent)\nPilot training\n (PilotTrainingCompleteTimelineEvent)",
+  "ko": "다음 종류의 모든 작업 지시를 즉시 완료합니다:\\n\\n메크 개수 및 수리\\n (MechRefitTimelineEvent)\\n메크 업그레이드 설치\\n (MechTraitsRefitTimelineEvent)\\n파일럿 회복\\n (PilotRecoveryTimelineEvent)\\n파일럿 이동\\n (PilotInTransitTimelineEvent)\\n파일럿 훈련\\n (PilotTrainingCompleteTimelineEvent)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "BFB9801941D125D468F3B6BDC1DEA5D7"
+  ],
+  "en": "Import savegame settings from\ntext file in MW5Mercs/Mods folder:\n_yaml_export_savegamesettings.txt",
+  "ko": "MW5Mercs/Mods 폴더의 텍스트 파일에서\\n세이브 게임 설정을 가져옵니다:\\n_yaml_export_savegamesettings.txt"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "37F51A184F7A4F2C3D4511BD704BCD41"
+  ],
+  "en": "In honor of long-time MechWarrior, player, streamer, awesome guy Baradul. Thank you for playing YAML and betatesting our mods :) Rakka dakka!",
+  "ko": "오랜 멕워리어이자 플레이어, 스트리머, 멋진 친구 Baradul을 기리며. YAML을 플레이하고 저희 모드를 베타 테스트해 주셔서 감사합니다 :) 라카 다카!"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5401536740BD6452F4488B90DC4B0DA3"
+  ],
+  "en": "In the Periphery, BattleMechs aren't simply field repaired. All too often, mash-ups and grafting whole parts to make something combat worthy is the only resort. Some call them 'FrankenMechs,' the Oberon Confederation scoundrels call the big ones 'Corsairs.' It makes you wonder how these pirates got their hands on so many 'Mechs in recent years.",
+  "ko": "변경 우주에서 배틀메크는 단순히 현장 수리만 받는 것이 아닙니다. 서로 다른 기체를 뒤섞고 부품을 통째로 이식해 전투가 가능한 무언가를 만들어 내는 것이 유일한 방법일 때가 너무나 많습니다. 누군가는 이를 '프랑켄메크'라 부르고, 오베론 연방의 악당들은 덩치 큰 놈들을 '커세어'라고 부릅니다. 이 해적들이 최근 몇 년 사이 어떻게 그렇게 많은 메크를 손에 넣었는지 궁금해지는 대목입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "53F7E49142FB75861BC7D590C51238E1"
+  ],
+  "en": "In the Periphery, BattleMechs aren't simply field repaired. All too often, mash-ups and grafting whole parts to make something combat worthy is the only resort. Some call them 'FrankenMechs,' the Oberon Confederation scoundrels call the big ones 'Corsairs.' This one's about as big as they come, and the wretch that got pulled from it, one Tyler Erickson, called it 'Privateer.' It makes you wonder how these pirates got their hands on so many 'Mechs in recent years.",
+  "ko": "변경 우주에서 배틀메크는 단순히 현장 수리만 받는 것이 아닙니다. 서로 다른 기체를 뒤섞고 부품을 통째로 이식해 전투가 가능한 무언가를 만들어 내는 것이 유일한 방법일 때가 너무나 많습니다. 누군가는 이를 '프랑켄메크'라 부르고, 오베론 연방의 악당들은 덩치 큰 놈들을 '커세어'라고 부릅니다. 이 기체는 그중에서도 가장 큰 축에 속하며, 여기서 끌려 나온 타일러 에릭슨이라는 작자는 이것을 '프라이버티어'라고 불렀습니다. 이 해적들이 최근 몇 년 사이 어떻게 그렇게 많은 메크를 손에 넣었는지 궁금해지는 대목입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5EACD2DC447AD93AF3A497BC0D3F1151"
+  ],
+  "en": "Intended for reconnaissance 'Mechs or vehicles, the C3 command unit, also known as a C3 master computer, is the central hub of a C3 network and allows linked units to share radar and targeting data on the lance or company levels. Other friendly 'mechs that are equipped with a C3 client unit receive all the bonuses from the command unit.",
+  "ko": "정찰용 메크나 차량을 위해 만들어진 C3 지휘 유닛은 C3 마스터 컴퓨터라고도 하며, C3 네트워크의 중심 허브로서 연결된 유닛들이 랜스 또는 중대 단위로 레이더와 조준 데이터를 공유할 수 있게 합니다. C3 클라이언트 유닛을 장착한 다른 아군 메크는 지휘 유닛의 모든 보너스를 받습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "2E8FFBEF4DB33BCB58B549B29B1886CB"
+  ],
+  "en": "Introduced in 3067, the 10SE is built around new technologies. The 'Mech has an Endo Steel chassis and is armored with twelve and a half tons of armor. The use of MASC gives it superior maneuverability capable of bursts of speed up to 86.4 km/h and four jump jets gives it a jumping capability of one hundred twenty meters. Finally, the 'Mech's arsenal includes an ER PPC and three ER medium lasers which are linked to a Targeting Computer and an LRM-10 launcher. The 'Mech uses a Guardian ECM suite to help defend against advanced enemy targeting and communications systems.",
+  "ko": "3067년에 도입된 10SE는 신기술을 중심으로 제작되었습니다. 이 메크는 엔도-스틸 섀시를 갖추고 12.5톤의 장갑을 둘렀습니다. MASC를 사용해 최대 86.4km/h의 순간 속도를 낼 수 있는 뛰어난 기동성을 얻었고, 점프 젯 4기로 120미터를 도약할 수 있습니다. 무장으로는 조준 컴퓨터에 연결된 ER PPC 1문과 ER 중형 레이저 3문, 그리고 LRM-10 발사기를 갖추었습니다. 또한 가디언 ECM 장비를 사용해 적의 첨단 조준 및 통신 시스템으로부터 자신을 방어합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "42F9CA0949E5AFA28FBF42978E4271E0",
+   "01899F4D4C03488F37BFF9920E1D1391"
+  ],
+  "en": "Introduced in 3068, and developed in line with the principle that produced the Compact Engine, the compact gyro is constructed from denser but more compact material and components, trading a 50% increase in weight for halving the bulk of the device. Intended primarily to reduce the chance of penetrating fire from damaging the vital component by reducing its size, like its fusion engine counterpart, it also has the benefit of freeing up internal space in a 'Mech's normally tightly packed center torso.",
+  "ko": "3068년에 도입된 컴팩트 자이로는 컴팩트 엔진을 낳은 원리에 따라 개발되었으며, 더 조밀하고 작은 소재와 부품으로 만들어져 무게가 50% 늘어나는 대신 장치의 부피가 절반으로 줄었습니다. 주된 목적은 크기를 줄여 관통 사격이 이 핵심 부품을 손상시킬 가능성을 낮추는 것이지만, 대응하는 핵융합 엔진과 마찬가지로 평소 빽빽하게 들어찬 메크 중앙 동체의 내부 공간에 여유를 만들어 주는 이점도 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F2647A024EB86BD8A0DE428967C62BEE"
+  ],
+  "en": "Jake Kalmar's infamous Ravager was built around a 285-rated XL engine to save weight to carry eighteen tons of armor and fifteen double heat sinks. Offensively the Ravager is armed with a Gauss rifle in the left arm and an Ultra AC/5 in the right torso, supported by a center torso mounted large pulse laser, a standard large laser in the left torso and right arm, rounded out by a medium laser in the head and each arm. Two tons each of Gauss and UAC reloads gave it good endurance. The 'Mech was salvaged by Chloe's Cavaliers after they tracked Kalmar to Sigurd in 3037 and killed him there.",
+  "ko": "제이크 칼마의 악명 높은 래비저는 무게를 줄여 18톤의 장갑과 더블 히트 싱크 15개를 싣기 위해 285등급 XL 엔진을 중심으로 제작되었습니다. 공격 무장으로는 왼팔의 가우스 라이플과 우측 동체의 울트라 AC/5를 갖추고, 중앙 동체의 대형 펄스 레이저, 좌측 동체와 오른팔의 일반 대형 레이저가 이를 지원하며, 머리와 양팔의 중형 레이저가 마무리를 맡습니다. 가우스와 UAC 탄약을 각각 2톤씩 실어 지속 전투 능력도 좋습니다. 이 메크는 클로이의 캐벌리어스가 3037년 시구르드까지 칼마를 추적해 그곳에서 그를 사살한 뒤 회수했습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "97E7C2D34714D92A7CF46B82C03F81E0"
+  ],
+  "en": "Kills all Pawns that do not belong to Player team (0)\n(Actor objects controlled by a Player or AI Controller)\nincluding Mechs, Tanks, Turrets, VTOLs and Jedi in specified range (m)\nCan also use \"killall\"\n\nExamples:\norder66 350 - kills everything in 350m radius\norder66 - kills everything on current map",
+  "ko": "플레이어 팀(0)에 속하지 않은 모든 폰을 처치합니다\\n(플레이어 또는 AI 컨트롤러가 조종하는 액터 오브젝트)\\n지정한 범위(m) 안의 메크, 전차, 포탑, VTOL, 제다이를 포함합니다\\n\"killall\"도 사용할 수 있습니다\\n\\n예시:\\norder66 350 - 반경 350m 안의 모든 것을 처치\\norder66 - 현재 맵의 모든 것을 처치"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "720B907D4B555065B5A5869AE500A76B"
+  ],
+  "en": "Legendary Mech Pilot Teraflame's own custom mech. No such thing as OP.",
+  "ko": "전설적인 메크 파일럿 Teraflame의 전용 커스텀 메크. 사기라는 건 없습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "4D4911EB446620EFE155B39A470C41EF",
+   "980BC4354C19DC2CAC02D797D9683069"
+  ],
+  "en": "Light Ferro-Fibrous armor. Provides 6% more armor points (33.92) per ton. Requires 7 critical slots.",
+  "ko": "라이트 페로-파이브러스 장갑입니다. 톤당 장갑 포인트가 6% 더 많습니다(33.92). 크리티컬 슬롯 7개가 필요합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "A312E2014AC15F4A43650FB9E2496F36",
+   "C4BAEC8E4787CF5F1C2D87AF8A8DB3FD"
+  ],
+  "en": "Light fusion engines weigh 25% less than standard engines (not including Gyro, etc.). However, losing a side torso would cause penalties in speed and heat dissipation (removes half of the engne's heat capacity and dissipation and limits maximum speed to 75%). This engine requires 2 free slots in each side torso. Losing BOTH side torsos will result in DEATH.",
+  "ko": "라이트 핵융합 엔진은 표준 엔진보다 25% 가볍습니다(자이로 등 제외). 그러나 측면 동체 하나를 잃으면 속도와 방열에 불이익을 받습니다(엔진의 열 용량과 방열 능력의 절반이 사라지고 최고 속도가 75%로 제한됨). 이 엔진은 각 측면 동체에 빈 슬롯 2개가 필요합니다. 양쪽 측면 동체를 모두 잃으면 사망합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7298E2EF4C813B77B47EA8AC40192F85"
+  ],
+  "en": "List all equipment in the inventory, including its asset id and the amount.",
+  "ko": "인벤토리의 모든 장비를 에셋 ID 및 수량과 함께 나열합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D5F4927A47D2FD4326121897D32BDE1F"
+  ],
+  "en": "List all weapons in the inventory, including its asset id and the amount.",
+  "ko": "인벤토리의 모든 무기를 에셋 ID 및 수량과 함께 나열합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "4C04A5B247307E2CA822D38FFB350D67"
+  ],
+  "en": "Lists all the YAML-specific settings that are specific to the current campaign or career.",
+  "ko": "현재 캠페인 또는 커리어에 적용된 YAML 전용 설정을 모두 나열합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7AC0AABE4AD781FE3898A89301E32E38"
+  ],
+  "en": "Myomer Accelerator Signal Circuitry, a device used to enhance the output of the myomer musculature that propels a BattleMech’s legs, resulting in short bursts of increased mobility and ground speed. Overuse risks structural damage in the legs. Compatible with Motive Upgrade Mk I hardpoints on 20-25 ton 'Mechs.",
+  "ko": "마이오머 가속기 신호 회로는 배틀메크의 다리를 움직이는 마이오머 근육의 출력을 높이는 장치로, 짧은 시간 동안 기동성과 지상 속도를 끌어올립니다. 과도하게 사용하면 다리에 구조 손상이 생길 위험이 있습니다. 20-25톤 메크의 기동력 업그레이드 Mk I 하드포인트와 호환됩니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F27289DC4779BD7E3F77C08ACD963969"
+  ],
+  "en": "Myomer Accelerator Signal Circuitry, a device used to enhance the output of the myomer musculature that propels a BattleMech’s legs, resulting in short bursts of increased mobility and ground speed. Overuse risks structural damage in the legs. Compatible with Motive Upgrade Mk II hardpoints on 30-45 ton 'Mechs.",
+  "ko": "마이오머 가속기 신호 회로는 배틀메크의 다리를 움직이는 마이오머 근육의 출력을 높이는 장치로, 짧은 시간 동안 기동성과 지상 속도를 끌어올립니다. 과도하게 사용하면 다리에 구조 손상이 생길 위험이 있습니다. 30-45톤 메크의 기동력 업그레이드 Mk II 하드포인트와 호환됩니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E8DA30994247628B5BADFFA71559DBCA"
+  ],
+  "en": "Myomer Accelerator Signal Circuitry, a device used to enhance the output of the myomer musculature that propels a BattleMech’s legs, resulting in short bursts of increased mobility and ground speed. Overuse risks structural damage in the legs. Compatible with Motive Upgrade Mk III hardpoints on 50-65 ton 'Mechs.",
+  "ko": "마이오머 가속기 신호 회로는 배틀메크의 다리를 움직이는 마이오머 근육의 출력을 높이는 장치로, 짧은 시간 동안 기동성과 지상 속도를 끌어올립니다. 과도하게 사용하면 다리에 구조 손상이 생길 위험이 있습니다. 50-65톤 메크의 기동력 업그레이드 Mk III 하드포인트와 호환됩니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "48E4B26D4E2298CEC1F61A92EA13D57F"
+  ],
+  "en": "Myomer Accelerator Signal Circuitry, a device used to enhance the output of the myomer musculature that propels a BattleMech’s legs, resulting in short bursts of increased mobility and ground speed. Overuse risks structural damage in the legs. Compatible with Motive Upgrade Mk IV hardpoints on 70-85 ton 'Mechs.",
+  "ko": "마이오머 가속기 신호 회로는 배틀메크의 다리를 움직이는 마이오머 근육의 출력을 높이는 장치로, 짧은 시간 동안 기동성과 지상 속도를 끌어올립니다. 과도하게 사용하면 다리에 구조 손상이 생길 위험이 있습니다. 70-85톤 메크의 기동력 업그레이드 Mk IV 하드포인트와 호환됩니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F4AEAC68484C26C3EA7E9C8525927158"
+  ],
+  "en": "Myomer Accelerator Signal Circuitry, a device used to enhance the output of the myomer musculature that propels a BattleMech’s legs, resulting in short bursts of increased mobility and ground speed. Overuse risks structural damage in the legs. Compatible with Motive Upgrade Mk V hardpoints on 90-100 ton 'Mechs.",
+  "ko": "마이오머 가속기 신호 회로는 배틀메크의 다리를 움직이는 마이오머 근육의 출력을 높이는 장치로, 짧은 시간 동안 기동성과 지상 속도를 끌어올립니다. 과도하게 사용하면 다리에 구조 손상이 생길 위험이 있습니다. 90-100톤 메크의 기동력 업그레이드 Mk V 하드포인트와 호환됩니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "31F3A36D4502BF6DD8C8ACAFBB09DCE4"
+  ],
+  "en": "Named after an African trickster god of ancient Terra by the various militias attempting to bring it down, the Anansi terrorized the outer systems of the Federated Suns and Taurien Concordant for years in the name of the pirate queen Paula Trevaline and the Tortuga Dominions. While eventually shot down and recovered by the AFFS, its pilot managed to avoid capture and is still suspected to be hiding among 'Lady Death' Trevaline's inner circle on Tortuga Prime.",
+  "ko": "이 기체를 격추하려던 여러 민병대가 고대 테라의 아프리카 장난꾸러기 신의 이름을 따 붙인 아난시는, 해적 여왕 폴라 트레발린과 토르투가 도미니언의 이름으로 수년간 항성 합중국과 타우리안 협정의 외곽 항성계를 공포에 떨게 했습니다. 결국 AFFS에 격추되어 회수되었지만 파일럿은 체포를 피했고, 지금도 토르투가 프라임에서 '레이디 데스' 트레발린의 측근들 사이에 숨어 있는 것으로 의심됩니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0454294C4AB6DEA616BFDBAC991E99CA"
+  ],
+  "en": "NO WEAPON AVAILABLE\nFOR UPGRADE\nNEED AT LEAST THIS MANY\nOF THE EXACT SAME TYPE\nAND TIER:\nT0->T1: {0}\nT1->T2: {1}\nT2->T3: {2}\nT3->T4: {3}\nT4->T5: {4}",
+  "ko": "업그레이드할 수 있는\\n무기가 없습니다\\n정확히 같은 종류와 등급의\\n무기가 최소한\\n이만큼 필요합니다:\\nT0->T1: {0}\\nT1->T2: {1}\\nT2->T3: {2}\\nT3->T4: {3}\\nT4->T5: {4}"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "803835DC4E96990860AE3FA01E1AA2AB",
+   "AAC36CA24F913876024FE084B837D3B1",
+   "ECABBD994CDADE554A94548DBEE7785A",
+   "007FBE1E458B92715708E59649215C84",
+   "42030EDD4409909ABB5BD7B5B86AEE89",
+   "B8FDE18B41E26DF6DEFDCB8DDCE88CB0",
+   "5D1CC3764F0BCD651CE584874D37AEF0",
+   "F8C6890E4F4C27F94137F1B1F0A3C0DF",
+   "BF7161374C967AB7F793E38212C30662"
+  ],
+  "en": "Not to be confused with the Targeting-tracking system, the Targeting Computer was introduced by Clan Mongoose in 2860. Targeting Computers are sophisticated pieces of electronics that, unlike normal targeting systems, physically help MechWarriors target their opponents. Recoil compensators and gyroscopic stabilizers are used to prevent normal weapon drift from factors such as recoil and movement, while the computer accounts for atmospheric and other conditions to present an accurate \"lead\" on the target. This allows for more surgical precision of weapons fire, especially with naturally accurate systems, allowing for the user to hit specific parts on the target vehicle. The Inner Sphere finally caught up to Clan technology with the Federated Suns' development of their own targeting computer in 3062.",
+  "ko": "조준 추적 시스템과 혼동해서는 안 되는 조준 컴퓨터는 2860년 클랜 몽구스가 도입했습니다. 조준 컴퓨터는 일반 조준 시스템과 달리 멕워리어가 적을 조준하는 것을 물리적으로 돕는 정교한 전자 장비입니다. 반동 보정기와 자이로스코프 안정기가 반동이나 움직임 같은 요인으로 생기는 무기의 흔들림을 막고, 컴퓨터가 대기 및 기타 조건을 계산해 목표에 대한 정확한 \"예측 조준점\"을 제시합니다. 덕분에 특히 본래 정확한 무기일수록 더욱 정밀한 사격이 가능해져, 사용자가 목표 기체의 특정 부위를 맞힐 수 있습니다. 이너스피어는 3062년 항성 합중국이 자체 조준 컴퓨터를 개발하면서 마침내 클랜 기술을 따라잡았습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DA6F355A4194C2515CC5D9AB62ECB983"
+  ],
+  "en": "Open the MW5Mercs/Mods folder where the settings file is saved:\n_yaml_export_savegamesettings.txt",
+  "ko": "설정 파일이 저장되는 MW5Mercs/Mods 폴더를 엽니다:\\n_yaml_export_savegamesettings.txt"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B0C1827B49FFADA77E1141ABE607649E",
+   "98C74E084EB51DC06231279248F859A5",
+   "A42EF59F45BD32E45D9BAD91C513838D",
+   "8FD4B1B242AC10BE27DD778563E83972"
+  ],
+  "en": "Originally a rush job intended for both overt and covert operations on Terra, difficulties integrating several stealth systems delayed the chassis until after the climatic end of the Amaris Coup. With necessity longer a driving force, its stealth systems were stripped out and the somewhat unorthodox chassis began its distribution to the regular army. Capable of leaping over difficult terrain and able to sustain long operations with minimal resupply, the Grasshopper is still found in the armies of most Houses, despite its factory being abandoned during the second Succession War.",
+  "ko": "원래 테라에서의 공개 및 비밀 작전 모두를 위해 급히 추진된 기체였으나, 여러 스텔스 시스템을 통합하는 데 어려움을 겪으면서 아마리스 쿠데타가 극적으로 끝난 뒤까지 섀시 개발이 지연되었습니다. 더 이상 급박한 필요가 없어지자 스텔스 시스템은 제거되었고, 다소 독특한 이 섀시는 정규군에 보급되기 시작했습니다. 험지를 뛰어넘을 수 있고 최소한의 보급으로 장기 작전을 지속할 수 있는 그래스호퍼는, 제2차 계승 전쟁 중 공장이 버려졌음에도 여전히 대부분의 가문 군대에서 찾아볼 수 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B78CDFF0438BA728928D779EDF7BCCBC",
+   "0413A7804EB7D0F44BA700821E6B74DD",
+   "453C47B54C538CB78E5E2AA4EBD1DC65",
+   "A27338A54196B2040CEEAFB666EF468E"
+  ],
+  "en": "Originally conceived and designed as a fire-support vehicle for reconnaissance units, the prototype Panther was first built for the Star League in 2739. After the disastrous Battle of St. John in 2759, the Star League re-evaluated the design, replacing its large laser with a PPC. Slow for it's size, but well-armored and known to hit hard, it's a great support unit for other 'Mechs.",
+  "ko": "원래 정찰 부대의 화력 지원기로 구상·설계된 팬서의 시제기는 2739년 성간 연대를 위해 처음 제작되었습니다. 2759년 세인트 존 전투의 참패 이후 성간 연대는 설계를 재검토해 대형 레이저를 PPC로 교체했습니다. 크기에 비해 느리지만 장갑이 튼튼하고 강력한 한 방으로 유명해, 다른 메크를 지원하는 훌륭한 기체입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F3BF45984054981C622A83A08280A06D",
+   "AB6EF96E4C7D3A9931292EA00987E0DC"
+  ],
+  "en": "Originally introduced by the Draconis Combine in 3067, the heavy-duty gyro is constructed from denser materials and features a reinforced outer shell, factors which allow it to withstand increased damage prior to failure. While no more bulky than a standard gyro, the device is twice as heavy, resulting in a notable cost and weight penalty when used in conjunction with larger fusion engines.",
+  "ko": "3067년 드라코니스 연맹이 처음 도입한 헤비 듀티 자이로는 더 조밀한 소재로 만들어지고 강화된 외피를 갖추어, 고장 나기 전까지 더 많은 피해를 견딜 수 있습니다. 표준 자이로보다 부피가 크지는 않지만 무게는 두 배여서, 대형 핵융합 엔진과 함께 사용하면 비용과 중량 면에서 상당한 불이익이 따릅니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5837910648F0EE1D0291BA9E8A507C99",
+   "4E1B49794E7E97F061A9519EBD7BC2B0",
+   "17B500D043289F453E90998014D4E903",
+   "D456477D4C71FFA7572B3E8B071880B8"
+  ],
+  "en": "Originally prototyped in 3024, the Raven is the result of a Cappellan research and development program. The Raven was a bold attempt to recreate the sophisticated electronic warfare technology of the long-lost Star League era. Though a technical success, the prototypes met with mixed results and many were subsequently refit with more weapons instead of the expensive electronic suites, giving it a surprising amount of firepower for a light 'Mech.",
+  "ko": "3024년에 처음 시제기가 만들어진 레이븐은 카펠란의 연구 개발 계획이 낳은 결과물입니다. 레이븐은 오래전에 사라진 성간 연대 시대의 정교한 전자전 기술을 재현하려는 대담한 시도였습니다. 기술적으로는 성공했지만 시제기들은 엇갈린 성과를 냈고, 이후 다수가 값비싼 전자 장비 대신 더 많은 무기로 개수되어 경량 메크치고는 놀라운 화력을 갖게 되었습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "490AC24D410B255C96D287A494955A37"
+  ],
+  "en": "Possibly a modified ANH-1E, the Mean Baby upgrades the engine to a 300 rated XL Engine. The arm-mounted lasers are removed, one of the two center-torso lasers are moved to the head and both are upgraded to ER Medium Lasers. If an enemy manages to close the distance, 4 Streak SRM-6s with 5 tons of ammo provide a devastating close-range punch, with fifteen and a half tons of armor providing adequate defense. Sixteen double heat sinks are hard-pressed to dissipate all the waste heat, so care must taken when firing the weapons.",
+  "ko": "ANH-1E를 개조한 것으로 보이는 민 베이비는 엔진을 300등급 XL 엔진으로 업그레이드했습니다. 팔의 레이저를 제거하고, 중앙 동체의 레이저 두 문 중 하나를 머리로 옮긴 뒤 둘 다 ER 중형 레이저로 업그레이드했습니다. 적이 거리를 좁혀 오면 탄약 5톤을 실은 스트릭 SRM-6 4문이 파괴적인 근거리 화력을 퍼붓고, 15.5톤의 장갑이 충분한 방어력을 제공합니다. 더블 히트 싱크 16개로는 발생하는 열을 모두 식히기 벅차므로 무기를 발사할 때 주의해야 합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3832BF1A480B1B47F89AF4A87DD6B6B0"
+  ],
+  "en": "Powered Sensors increase sensor range by 25% and and sensor FoV to 360 degrees.",
+  "ko": "동력 센서는 센서 범위를 25% 늘리고 센서 시야각을 360도로 넓힙니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C2B6D2F943F7223104E153BF60E19CAA"
+  ],
+  "en": "Print the player's current mech's sensor stats like sensro range or lock-on time modifier.",
+  "ko": "센서 범위나 조준 고정 시간 보정치 등 플레이어가 현재 탑승한 메크의 센서 수치를 출력합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C972D9C24602AF3F4A9BDFB7A9B892AE",
+   "C7D0FD534FB509CC7F6077871B642C54"
+  ],
+  "en": "Reactive Armor (sometimes called Blazer Armor) type of specialized armor that uses a series of microscopic explosions to reduce the effects of explosive weapons fire like missiles, artillery, and mortars. When these weapons hit a unit with Reactive Armor protecting the area, the damage is reduced by 50%. The microscopic explosives embedded in the armor redirect the force of the weapon away from the protected unit.",
+  "ko": "리액티브 장갑(블레이저 장갑이라고도 함)은 미세한 폭발을 연쇄적으로 일으켜 미사일, 포격, 박격포 같은 폭발성 무기의 효과를 줄이는 특수 장갑입니다. 이런 무기가 리액티브 장갑으로 보호된 부위에 명중하면 피해가 50% 감소합니다. 장갑에 내장된 미세 폭약이 무기의 충격을 보호 대상 바깥으로 돌려 보냅니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "20712E15434D25F51217B69CAEBA2EB3"
+  ],
+  "en": "Reactive Armor (sometimes called Blazer Armor) type of specialized armor that uses a series of microscopic explosions to reduce the effects of explosive weapons fire like missiles, artillery, and mortars. When these weapons hit a unit with Reactive Armor protecting the area, the damage is reduced by 50%. The microscopic explosives embedded in the armor redirect the force of the weapon away from the protected unit. This unique version of the reactive armor system is tailored to work only on the Hunchback Azreal.",
+  "ko": "리액티브 장갑(블레이저 장갑이라고도 함)은 미세한 폭발을 연쇄적으로 일으켜 미사일, 포격, 박격포 같은 폭발성 무기의 효과를 줄이는 특수 장갑입니다. 이런 무기가 리액티브 장갑으로 보호된 부위에 명중하면 피해가 50% 감소합니다. 장갑에 내장된 미세 폭약이 무기의 충격을 보호 대상 바깥으로 돌려 보냅니다. 이 특별한 버전의 리액티브 장갑 시스템은 헌치백 아즈라엘에서만 작동하도록 맞춤 제작되었습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "B89F4F4F45F4D4688139BDBEC6B012C1"
+  ],
+  "en": "Refund all YAML leopard upgrades. This will reset all upgrades and refund all YAML points and cbills spent on installed upgrades.\n\nExample:\nrefundupgrades",
+  "ko": "YAML 레오파드 업그레이드를 모두 환불합니다. 모든 업그레이드가 초기화되고, 설치한 업그레이드에 사용한 YAML 포인트와 C-빌이 모두 환불됩니다.\\n\\n예시:\\nrefundupgrades"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "8590E6F0491F13675A73B6A182BF9C07",
+   "CC67BFE84D68E4394803A6B230666610"
+  ],
+  "en": "Replaces all Single Engine Heatsinks with Clan Double Heatsinks, effectively doubling engine heat capacity and dissipation. Also allows the mech to equip Clan Double Heatsinks.",
+  "ko": "엔진의 싱글 히트 싱크를 모두 클랜 더블 히트 싱크로 교체해 엔진의 열 용량과 방열 능력을 사실상 두 배로 늘립니다. 또한 메크가 클랜 더블 히트 싱크를 장착할 수 있게 됩니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F44939684DD1A03BAB705B8EAE00FE11",
+   "AB5DDA75472C0C3D76CBAEA40ED02C80"
+  ],
+  "en": "Replaces all Single Engine Heatsinks with Compact Heatsinks, effectively doubling the number of heatsinks in the engine. Also allows the mech to equip Compact Heatsinks.",
+  "ko": "엔진의 싱글 히트 싱크를 모두 컴팩트 히트 싱크로 교체해 엔진 내 히트 싱크 수를 사실상 두 배로 늘립니다. 또한 메크가 컴팩트 히트 싱크를 장착할 수 있게 됩니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E7E44CFA4DAA20EE87A39AADA14F3A6E",
+   "C2565C2C47C2C8B6EE2BECB3DE20156D"
+  ],
+  "en": "Replaces all Single Engine Heatsinks with Double Heatsinks, effectively doubling engine heat capacity and dissipation.",
+  "ko": "엔진의 싱글 히트 싱크를 모두 더블 히트 싱크로 교체해 엔진의 열 용량과 방열 능력을 사실상 두 배로 늘립니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "62E5E86F49C8744DEC5E5B8022F68247"
+  ],
+  "en": "Savegame specific settings for\nCampaign / Career mode in\nYet Another Mechlab",
+  "ko": "Yet Another Mechlab의\\n캠페인 / 커리어 모드용\\n세이브 게임별 설정"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D97A89F74E13CF5F25A89CA2D4F03CBB"
+  ],
+  "en": "Search will look in:\n- MechData asset name\n- MechData chassis name\n- MechData variant name\n- MechData description\n- UnitCard Intro Date\n- Loadout custom name\n- Associated DLC (DLC1, DLC2 etc)",
+  "ko": "검색 대상:\\n- MechData 에셋 이름\\n- MechData 섀시 이름\\n- MechData 파생형 이름\\n- MechData 설명\\n- UnitCard 도입 연도\\n- 무장 구성 사용자 지정 이름\\n- 관련 DLC (DLC1, DLC2 등)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FF46BB48416B0D270BCB8896DFD176F8"
+  ],
+  "en": "Select Tech Base\n\nAll, Inner Sphere,\nClan, or Other (LosTech, Retro, \nArena, etc.)",
+  "ko": "기술 기반 선택\\n\\n전체, 이너스피어,\\n클랜, 또는 기타(로스텍, 레트로, \\n아레나 등)"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "CBE60E9E46F9119C2C02B3868BA2C8F7"
+  ],
+  "en": "Sends console commands to Unreal Engine using Execute Console\nCommand (Kismet Library) blueprint node.\n\nExample:\nconsole r.HDR.EnableHDROutput 1",
+  "ko": "Execute Console Command(Kismet Library) 블루프린트 노드를 사용해\\n언리얼 엔진에 콘솔 명령을 보냅니다.\\n\\n예시:\\nconsole r.HDR.EnableHDROutput 1"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "DBB4CCC043A4269245EC11B7D8186B52"
+  ],
+  "en": "Serving as one of the first executive officers in the 1st Tyr BattleMech regiment of the newly formed Free Rasalhague Republic, Tor Miraborg's and his Mjolnir quickly rose as the greatest heroes of the newly formed republic. During the Ronin Wars after his unit's mercenary support unexpectedly withdrew from combat citing an obscure clause built into their contract, Miraborg rallied Republic forces in a heroic last stand against a superior Kuritan onslaught. Mjolnir famously being the final Republic 'Mech to be brought down in the engagement. Clipped by an autocannon shell ejecting from Mjolnir left Miraborg severely scared from the battle, but his indomitable will and heavily scarred face in the name of Rasalhague freedom have begun to earn himself the nickname 'the Iron Jarl.'",
+  "ko": "새로 건국된 자유 라살하그 공화국의 제1 티르 배틀메크 연대에서 초대 부지휘관 중 한 명으로 복무한 토르 미라보리와 그의 묠니르는 빠르게 신생 공화국 최고의 영웅으로 떠올랐습니다. 로닌 전쟁 중 부대를 지원하던 용병들이 계약서에 숨겨진 모호한 조항을 내세워 돌연 전투에서 철수하자, 미라보리는 공화국군을 규합해 우세한 쿠리타군의 맹공에 맞서 영웅적인 최후의 항전을 벌였습니다. 묠니르는 이 교전에서 마지막으로 쓰러진 공화국 메크로 유명합니다. 묠니르에서 탈출하던 중 오토캐논 포탄에 스친 미라보리는 이 전투에서 심한 흉터를 얻었지만, 라살하그의 자유를 위한 그의 불굴의 의지와 흉터투성이 얼굴은 그에게 '강철의 야를'이라는 별명을 안겨 주기 시작했습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "834FE72E4C83F5307C696BB63D7D71EE"
+  ],
+  "en": "Set base requirement in Game Options.\nAmount needed is: set number +\ntier of original weapon.",
+  "ko": "기본 요구 수량은 게임 옵션에서 설정합니다.\\n필요한 수량은 설정한 숫자 +\\n원래 무기의 등급입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "407CFBDC452C3BC7ABC8BAA9828EFB3B"
+  ],
+  "en": "Set the amount of YAML Leopard upgrade points currently available.\n\nExample:\nsetyamlpoints 10",
+  "ko": "현재 사용할 수 있는 YAML 레오파드 업그레이드 포인트의 양을 설정합니다.\\n\\n예시:\\nsetyamlpoints 10"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "010BDBD64E6F49953A51F19DACB296C5"
+  ],
+  "en": "Set the cbills value in the campaign inventory.\n\nExample:\nsetcbills 1000000",
+  "ko": "캠페인 인벤토리의 C-빌 값을 설정합니다.\\n\\n예시:\\nsetcbills 1000000"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "35C93AE8466A1C8785B73E8484A03A2C"
+  ],
+  "en": "Shows current Mercenary Company Reputation\n\nExample:\ngetrep",
+  "ko": "현재 용병 부대 평판을 표시합니다\\n\\n예시:\\ngetrep"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "11326B9C443A427B2C6574A12FDBC763"
+  ],
+  "en": "Simple Mechlab - internal equipment like\nengine, structure, sensors etc are locked and\nindestructible like in vanilla game:",
+  "ko": "간편 메크랩 - 엔진, 구조, 센서 등의\\n내부 장비가 바닐라 게임처럼 잠기고\\n파괴되지 않습니다:"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "257C02FD4A3713C63C833294052B79DA"
+  ],
+  "en": "Standard Clan Armor offers the same protection as its Inner Sphere counterpart but comes with built-in C.A.S.E..",
+  "ko": "표준 클랜 장갑은 이너스피어의 표준 장갑과 같은 방어력을 제공하면서 C.A.S.E.가 내장되어 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "05C651D7405EFB1B253607B6794677A3",
+   "097B71DF4D94C66356602FAF413027F0"
+  ],
+  "en": "Standard heat sink kit mounted as standard on most mech chassis.",
+  "ko": "대부분의 메크 섀시에 기본으로 탑재되는 표준 히트 싱크 키트입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7AAE7645405523401A7DB0A2CD3F8AF2"
+  ],
+  "en": "Taking the concept of the 6D even further, the 9D was built in 3067 on an Endo Steel chassis and used an XL Engine to upgrade the maximum speed to 86 km/h. The 'Mech carried thirteen and a half tons of armor and was armed with two ER PPCs and two ER medium lasers. The 'Mech's weapons were all linked to an advanced Targeting Computer, allowing the Warhammer to direct its firepower with uncanny accuracy. The 9D also has the additional advantage of being able to jump up to ninety meters with three jump jets added to the 'Mech.",
+  "ko": "6D의 개념을 한층 더 발전시킨 9D는 3067년 엔도-스틸 섀시로 제작되었고, XL 엔진을 사용해 최고 속도를 86km/h로 끌어올렸습니다. 이 메크는 13.5톤의 장갑을 두르고 ER PPC 2문과 ER 중형 레이저 2문으로 무장했습니다. 모든 무기가 고급 조준 컴퓨터에 연결되어 있어 워해머가 놀라운 정확도로 화력을 집중할 수 있습니다. 또한 9D는 점프 젯 3기를 추가해 최대 90미터를 도약할 수 있다는 이점도 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0A4E6FDA40A5D6D12DBCDC81296863EB"
+  ],
+  "en": "Teleports player controlled mech to set distance \nforward up sideways (in meters) X Z Y\n\nExample:\n\"teleport 15 30 1\" - 15m forward, 30m up, 1m to the right\n\"teleport -35 100 -15\" 35m backward, 100m up, 15m left ",
+  "ko": "플레이어가 조종하는 메크를 지정한 거리만큼 순간이동시킵니다 \\n전방 위 측면 (미터 단위) X Z Y\\n\\n예시:\\n\"teleport 15 30 1\" - 전방 15m, 위로 30m, 오른쪽 1m\\n\"teleport -35 100 -15\" 후방 35m, 위로 100m, 왼쪽 15m"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "26FC306F4F279BD4413D1C81E7811943"
+  ],
+  "en": "The 1V2 Locust was a Periphery upgrade of the design introduced in 3066 for the Marian Hegemony. While still carrying the center-mounted medium laser, it mounted four RL-10s in place of the machine guns.",
+  "ko": "1V2 로커스트는 3066년 마리안 헤게모니를 위해 도입된 변경 우주식 개량형입니다. 중앙의 중형 레이저는 그대로 유지하면서 기관총 대신 RL-10 4문을 장착했습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9B34270F467F066A74E3FCAA28CD1AC5"
+  ],
+  "en": "The 3D Locust, introduced in 3049, used Star League technology to take the concept of the 1M further. Although it carried only two [LRM-5 launchers, the engineers at Achernar BattleMechs on New Avalon upgraded the armor to ferro-fibrous and the structure to endo steel. Completely lacking in close-range, weaponry this variant was suitable for harassing the enemy at long range then fleeing before they could get too close.",
+  "ko": "3049년에 도입된 3D 로커스트는 성간 연대 기술을 사용해 1M의 개념을 더욱 발전시켰습니다. LRM-5 발사기를 2문만 탑재했지만, 뉴 아발론의 아케르나 배틀메크스 기술진은 장갑을 페로-파이브러스로, 구조를 엔도-스틸로 업그레이드했습니다. 근거리 무장이 전혀 없는 이 파생형은 원거리에서 적을 괴롭히다가 적이 너무 가까이 오기 전에 달아나는 데 적합했습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "BD38C880448EA6180165F1B6569B362E"
+  ],
+  "en": "The 7S Phoenix Hawk was introduced in 3067 for House Steiner, using a new Light Engine for power and a MASC system to augment its ground speed. The 'Mech was built around an Endo Steel structure, used the Full-Head Ejection System, and was protected by nine tons of Ferro-Fibrous armor. The 7S carried a large pulse laser as its primary weapon and four medium lasers for close range work. The weapons were rounded out with a small laser located in the 'Mech's head.",
+  "ko": "7S 피닉스 호크는 3067년 스타이너 가문을 위해 도입되었으며, 새로운 라이트 엔진을 동력원으로 사용하고 MASC 시스템으로 지상 속도를 높였습니다. 이 메크는 엔도-스틸 구조를 중심으로 제작되었고, 풀 헤드 사출 시스템을 사용하며, 9톤의 페로-파이브러스 장갑으로 보호됩니다. 7S는 주 무장으로 대형 펄스 레이저 1문을, 근거리용으로 중형 레이저 4문을 탑재했습니다. 메크 머리에 달린 소형 레이저가 무장을 마무리합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "4B2AD96843470BFE02C0DE985B595888",
+   "38F7DEE34319FF7E14EEAA89CD512810"
+  ],
+  "en": "The Agility Gyro gives the 'Mech an agility boost by improving acceleration, deceleration and turn rates.",
+  "ko": "민첩성 자이로는 가속, 감속, 선회 속도를 향상시켜 메크의 민첩성을 높입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "64B90650432753AEE5CAE296BD1A4613"
+  ],
+  "en": "The Ballistic Fire Control System increases the performance of all ballistic weapons.",
+  "ko": "탄도 사격 통제 시스템은 모든 탄도 무기의 성능을 높입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "2DDD45E747E22B784ADAB0B9E4E90359"
+  ],
+  "en": "The Bull Shark known as the 'Blood Tide' is even more questionable than the origins of the chassis it's built on. This custom variant mounts an excessive amount of firepower, a pristine Anti-Missile System, and carries a personalized paint scheme. With the slow trickle of 'standard' variants suddenly appearing on the Inner Sphere markets, the answer to where this machine originated from only gets more murky.",
+  "ko": "'블러드 타이드'로 알려진 이 불 샤크는 기반이 된 섀시의 기원보다도 더 수상쩍습니다. 이 맞춤형 파생형은 과도한 화력과 새것 같은 대미사일 시스템을 탑재하고 전용 도색을 하고 있습니다. '일반' 파생형이 이너스피어 시장에 조금씩 느닷없이 나타나고 있는 지금, 이 기체가 어디서 왔는지에 대한 답은 더욱 미궁에 빠질 뿐입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "753A6F5643527240F77D1E98C518D37A"
+  ],
+  "en": "The C3 client unit is the second part of a C3 network. Weighing a single ton and carried by the members of a lance or company, when it links to a C3 command unit it can share targeting information with all of the units linked into the network. Without a C3 command unit, the C3 client is useless.",
+  "ko": "C3 클라이언트 유닛은 C3 네트워크의 두 번째 구성 요소입니다. 무게는 1톤이며 랜스나 중대의 구성원이 탑재하고, C3 지휘 유닛에 연결되면 네트워크에 연결된 모든 유닛과 조준 정보를 공유할 수 있습니다. C3 지휘 유닛이 없으면 C3 클라이언트는 쓸모가 없습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "379596404BFDB811EEF42CA003742153"
+  ],
+  "en": "The C3 variant takes the 'Mech's long range fire support to a new level by removing both of the LRM-15 launchers and replacing them with an Arrow IV artillery system, allowing the Catapult to stay a safe distance from the battlefield. However the design of this model was rushed through by the Capellans, causing a number of faults to reemerge, including the undependable Anderson 21 jump jets. Chief among these however is the fact that it has a single ton of ammo, giving it a pitiful five reloads and forcing it to stay close to supply lines. The 'Mech is otherwise identical to the C1 model.",
+  "ko": "C3 파생형은 LRM-15 발사기 두 문을 모두 제거하고 애로우 IV 포격 시스템으로 교체해 이 메크의 장거리 화력 지원을 새로운 차원으로 끌어올렸으며, 덕분에 캐터펄트는 전장에서 안전한 거리를 유지할 수 있습니다. 그러나 이 모델의 설계는 카펠란이 서둘러 진행한 탓에 신뢰성 낮은 앤더슨 21 점프 젯을 비롯한 여러 결함이 다시 나타났습니다. 그중에서도 가장 큰 문제는 탄약이 단 1톤뿐이라는 점으로, 재장전이 고작 다섯 번에 그쳐 보급선 가까이에 머물 수밖에 없습니다. 그 밖에는 C1 모델과 동일합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D0A5BA3D4149D0582E1D5D9116AFBBCA",
+   "C2C625884F061E2C42BDE18523885669"
+  ],
+  "en": "The Compact Fusion Engine is mechanically similar to a Fusion Engine but uses much denser radiation shielding. The Compact fusion engine is 50% heavier for the same performance, but occupies less space in the center torso.",
+  "ko": "컴팩트 핵융합 엔진은 구조적으로 일반 핵융합 엔진과 비슷하지만 훨씬 조밀한 방사선 차폐재를 사용합니다. 같은 성능 기준으로 50% 더 무겁지만 중앙 동체에서 차지하는 공간은 더 적습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D3E99BA94950B869C81A6A9AE61D32CE"
+  ],
+  "en": "The Energy Fire Control System improves the performance of all energy weapons.",
+  "ko": "에너지 사격 통제 시스템은 모든 에너지 무기의 성능을 향상시킵니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0ADDAAAF43F77A37544C3EAFE407825C",
+   "7DC9BEF5421F8E00F80DD5AA0CE7A74F"
+  ],
+  "en": "The Hardened Armor provides twice as much armor per point as Standard Armor, but also weighs twice as much.",
+  "ko": "강화 장갑은 포인트당 표준 장갑의 두 배에 해당하는 방어력을 제공하지만 무게도 두 배입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E3C2987D4FE033EF653DE3A1A403463B"
+  ],
+  "en": "The Internal Structure of a BattleMech forms the skeletal structure of the 'Mech to which all components are mounted. The Standard Internal Structure of a 'Mech weighs 10% of its max tonnage.",
+  "ko": "배틀메크의 내부 구조는 모든 부품이 장착되는 메크의 골격을 이룹니다. 메크의 표준 내부 구조는 최대 중량의 10%에 해당하는 무게를 차지합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "1DAC21BE48412AF26B6319BD3F239D30"
+  ],
+  "en": "The large assembly housing that gives the Hunchback its namesake has long been a tinkerer’s paradise, leading to many unofficial factory refits of Kali Yama’s trademark design referred to as “Swaybacks.” Removing the AC/20 like all other Swaybacks, the Azreal is unique in that it has opted not to replace the heavy-grade AC with more weapons, but instead invests the tonnage into a slew of unique experimental tech.  A ballistic armor composite that appears to allow for marginally enhanced durability, coupled with a pair of unique experimental claws, makes for a truly one-of-a-kind variant.",
+  "ko": "헌치백이라는 이름의 유래가 된 커다란 포탑 하우징은 오랫동안 개조광들의 낙원이었고, 그 결과 칼리 야마의 대표 설계를 비공식적으로 공장 개수한 수많은 기체가 “스웨이백”이라 불리게 되었습니다. 다른 모든 스웨이백처럼 AC/20을 제거했지만, 아즈라엘은 그 대구경 오토캐논 자리를 더 많은 무기로 채우는 대신 남는 중량을 독특한 실험 기술 다수에 투자했다는 점에서 특별합니다. 내구성을 조금 높여 주는 것으로 보이는 탄도 장갑 복합재와 한 쌍의 독특한 실험용 클로가 결합되어, 그야말로 세상에 하나뿐인 파생형이 되었습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "52244AAF4AF351221D3D128D7C80D682"
+  ],
+  "en": "The LCT-1L Locust was an attempt to allow the 'Mech to operate at even higher speeds by adding Triple Strength Myomer to the design. Introduced in 3030, the weapons are identical to those on the LCT-1V, as it was a testbed for the technology by Bergan Industries' Ares plant.",
+  "ko": "LCT-1L 로커스트는 설계에 3배 강화 마이오머를 추가해 메크가 더욱 빠른 속도로 움직일 수 있게 하려는 시도였습니다. 3030년에 도입되었으며, 버건 인더스트리즈의 아레스 공장이 이 기술의 테스트베드로 삼은 기체여서 무장은 LCT-1V와 동일합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "F66B76254675B5A3902BF393F8C24B3A"
+  ],
+  "en": "The Leopard's default mech clamps are too puny to hold anything more than a light mech. Install improved ones to drop more metal up to 55 tons from the 2nd bay.",
+  "ko": "레오파드의 기본 메크 클램프는 너무 약해서 경량 메크보다 무거운 것은 붙잡지 못합니다. 개량형을 설치하면 2번 베이에서 최대 55톤까지 더 무거운 기체를 강하시킬 수 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "53859F954A9C314C5AAD6F8B11B227DD"
+  ],
+  "en": "The Missile Fire Control System increases the performance of all missile weapons.",
+  "ko": "미사일 사격 통제 시스템은 모든 미사일 무기의 성능을 높입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "192EC87F4B5DEE778A254EBA1139DCD2",
+   "EAA4D8BE4622AE6BA66E6E882BDD38C5"
+  ],
+  "en": "The Mobility Gyro improves the mobility of the 'Mech by giving it a moderate speed boost.",
+  "ko": "기동성 자이로는 적당한 속도 향상을 제공해 메크의 기동성을 높입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "85901F4943F78893E556ABBC9F3E91D1",
+   "97DCB4CA430ACB34D57A98ADAE9A9A6B"
+  ],
+  "en": "The Reinforced Structure is twice as heavy as the Standard Structure, but it can sustain twice as much damage.",
+  "ko": "강화 구조는 표준 구조보다 두 배 무겁지만 두 배의 피해를 견딜 수 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "CCC887C24BC587CE5C4730A2E1F5AE06"
+  ],
+  "en": "The Royal Locust introduced in 2610 mounts a Small Pulse Laser and a Medium Pulse Laser in each arm, while keeping the torso-mounted medium laser. It also uses a XL Engine, Endo Steel chassis, and Ferro-Fibrous armor. The heat-sinks have also been upgraded to Double Heat Sinks.",
+  "ko": "2610년에 도입된 로열 로커스트는 동체의 중형 레이저를 유지하면서 양팔에 소형 펄스 레이저와 중형 펄스 레이저를 하나씩 장착했습니다. 또한 XL 엔진, 엔도-스틸 섀시, 페로-파이브러스 장갑을 사용합니다. 히트 싱크도 더블 히트 싱크로 업그레이드되었습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "12663D6641F1B0C3C28A8E95A0FE7698"
+  ],
+  "en": "The Spooky is a heavily modified AS7-D-DC with Stealth Armor and long range weapons.",
+  "ko": "스푸키는 스텔스 장갑과 장거리 무기를 갖춘, 대폭 개조된 AS7-D-DC입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7D54BA454723B1A93C44DCB8005AF5D2",
+   "D238BBF64A23C910B07607B9B50731F3"
+  ],
+  "en": "The Stabilized Ultralight Gyro is an improvement on the UL Gyro, lowering the penalties for torso twist and turn rates while keeping the weight reduction.",
+  "ko": "안정화 초경량 자이로는 UL 자이로의 개량형으로, 무게 감소는 유지하면서 동체 회전과 선회 속도에 대한 불이익을 줄였습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "578D882B4AE52698C800C6AC2364E8BF",
+   "004F100949734D591777AF944E6C2840"
+  ],
+  "en": "The Ultralight Gyro was developed to give a ‘Mech more free tonnage, at the cost of agility.",
+  "ko": "초경량 자이로는 민첩성을 희생하는 대신 메크에 더 많은 여유 중량을 주기 위해 개발되었습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E18668CF4E3DECF842964388D29F2553"
+  ],
+  "en": "The upgrade system is still under development. Balance is still on-going!",
+  "ko": "업그레이드 시스템은 아직 개발 중입니다. 밸런스 조정도 계속 진행 중입니다!"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9CEE658C499A8CE0D18DE8AC77824C00"
+  ],
+  "en": "The White Death was the customised 'Mech of Mohammed Häyhä, named after his ancient ancestor Simo \"White Death\" Häyhä. He was famous for his record of headshots. Equipped with jump jets, 380XL Engine, Endo structucre and Ferro armor, this 'Mech is deadly at long range.",
+  "ko": "화이트 데스는 모하메드 헤위헤의 커스텀 메크로, 그의 먼 조상인 시모 \"화이트 데스\" 헤위헤의 이름을 땄습니다. 그는 헤드샷 기록으로 유명했습니다. 점프 젯, 380XL 엔진, 엔도 구조, 페로 장갑을 갖춘 이 메크는 장거리에서 치명적입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "6926EFBE43BBC64A6BEA0A8B7DAEEE7F"
+  ],
+  "en": "These slots are used by the Triple Strength Myomer of the Mech.",
+  "ko": "이 슬롯은 메크의 3배 강화 마이오머가 사용합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C30DCEDC466D575E263181BDCB234522"
+  ],
+  "en": "This 'Mech has\nMobility equipment\n(MASC, SuperCharger)\ninstalled.",
+  "ko": "이 메크에는\\n기동 장비가\\n(MASC, 슈퍼차저)\\n설치되어 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "969516DF4A5C2AAA11936B988A0CA311"
+  ],
+  "en": "This Civil War era variant is built using a Hollis Mk. III Endo Steel chassis and powered by a Magna 260 extralight engine, using the saved weight to make the C2 a dedicated long range 'Mech. The primary weapons are two Federated LRM-15 launchers mated to an Artemis IV fire control system, and fed by four tons of ammo. The Medium Lasers have been replaced with two Defiance Shredder LB-X Autocannon/2s, sharing a single ton of ammo. While this makes the Catapult vulnerable to close range attacks, it also makes it extremely deadly at long range.",
+  "ko": "이 내전 시대 파생형은 홀리스 Mk. III 엔도-스틸 섀시로 제작되고 마그나 260 엑스트라 라이트 엔진으로 구동되며, 절약한 중량을 활용해 C2를 장거리 전용 메크로 만들었습니다. 주 무장은 아르테미스 IV 사격 통제 시스템과 결합된 페더레이티드 LRM-15 발사기 2문으로, 4톤의 탄약을 공급받습니다. 중형 레이저는 탄약 1톤을 함께 쓰는 디파이언스 슈레더 LB-X 오토캐논/2 2문으로 교체되었습니다. 이 때문에 캐터펄트는 근거리 공격에 취약해졌지만, 장거리에서는 극도로 치명적입니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "9E4DE7894220E4D6B0AC6BBA8F97670B"
+  ],
+  "en": "This Clanbuster variant was developed by ComStar to more easily traverse the difficult terrain and engage in the ambush tactics intended for the Battle of Tukayyid.",
+  "ko": "이 클랜버스터 파생형은 투카이드 전투에서 계획한 매복 전술을 수행하고 험지를 더 쉽게 통과할 수 있도록 컴스타가 개발했습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "C6C6F5314F6130107923BEAEF31EAFE8"
+  ],
+  "en": "This Dark Age version of the Locust has a top speed nearing 170 km/h. It carries an ER medium laser in the center torso and a medium pulse laser in each arm. It's protected by ferro-fibrous armor.",
+  "ko": "이 암흑 시대 버전의 로커스트는 최고 속도가 170km/h에 육박합니다. 중앙 동체에 ER 중형 레이저를, 양팔에 중형 펄스 레이저를 탑재했습니다. 페로-파이브러스 장갑으로 보호됩니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "3DB098E246780E3CFFF3EA9F01E9B465"
+  ],
+  "en": "This Locust variant was also introduced during the Dark Age. It uses a smaller engine, which reduces the top speed to 140 km/h, but adds a half ton of armor and carries an ER medium laser in each arm and an ER large laser in the center torso.",
+  "ko": "이 로커스트 파생형 역시 암흑 시대에 도입되었습니다. 더 작은 엔진을 사용해 최고 속도가 140km/h로 줄었지만, 장갑을 0.5톤 늘리고 양팔에 ER 중형 레이저를, 중앙 동체에 ER 대형 레이저를 탑재했습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "890A498C446B2240D3C65CB2E28C1D5E"
+  ],
+  "en": "This SpecOps tactical upgrade includes a high-grade ballistic cooling vest, an integrated C3 command helmet, and advanced onboard systems, providing both improved sensor capability as well as protection for the pilot.",
+  "ko": "이 특수 작전용 전술 업그레이드에는 고급 방탄 냉각 조끼, 일체형 C3 지휘 헬멧, 첨단 탑재 시스템이 포함되어 있어 센서 성능을 높이고 파일럿을 보호합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "29813B3045A5EC89CF00D8A7973CA68A"
+  ],
+  "en": "This variant carries a Snub-Nose PPC, Small Pulse Laser, TAG, Beagle Active Probe, and Guardian ECM Suite. It retains the Small Laser of the standard UrbanMech as well. Improved Jump Jets help the UrbanMech move around the city it defends more effectively.",
+  "ko": "이 파생형은 스너브-노즈 PPC, 소형 펄스 레이저, TAG, 비글 액티브 프로브, 가디언 ECM 장비를 탑재합니다. 표준 어반메크의 소형 레이저도 그대로 유지합니다. 개량형 점프 젯 덕분에 어반메크는 자신이 지키는 도시 안을 더 효과적으로 누빌 수 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "E3701C024E3ED3B07FBC47A7F11DACB3"
+  ],
+  "en": "This variant had an ER PPC in the right torso, and three Gauss Rifles (one in each arm, and one in the left torso) to provide hard hitting firepower. Each Gauss Rifle had two tons of ammunition. Ten double heat sinks were more than adequate to keep the machine cool. BV (2.0) = 2,274",
+  "ko": "이 파생형은 우측 동체에 ER PPC를, 그리고 가우스 라이플 3문(양팔에 하나씩, 좌측 동체에 하나)을 탑재해 강력한 화력을 제공했습니다. 가우스 라이플마다 2톤의 탄약을 실었습니다. 더블 히트 싱크 10개로 기체를 식히기에 충분하고도 남았습니다. BV (2.0) = 2,274"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "236219674236D50F052A84B24D65F992"
+  ],
+  "en": "Tired of always leaving the good stuff on the battle field, Fahad told his salvage team to gather any mech part that is at least partially recognizable as such. He will do his best to weld it back into shape.\n\nSalvage V1: number of salvage parts increased by 20%.\nSalvage V2: chance of salvaging parts increased by 20%.",
+  "ko": "좋은 물건을 늘 전장에 두고 오는 데 질린 파하드는 회수반에게 메크 부품이라고 조금이라도 알아볼 수 있는 것은 모조리 모아 오라고 했습니다. 그가 최선을 다해 용접해서 다시 모양을 잡을 겁니다.\\n\\n회수 V1: 회수 부품 수가 20% 증가합니다.\\n회수 V2: 부품을 회수할 확률이 20% 증가합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "8F61D087434B2DDCDDDF149A629C024D"
+  ],
+  "en": "Titus Daniels.Was a Lieutenant in the Twenty-second Skye Rangers fighting for House Steiner. Titus was the son of a Commonwealth noble.  Titus was reassigned to the Twenty-second after he badly injured a fellow officer over an affair of honor. Was shy and unsure of himself outside a ‘Mech but at the controls of his Longbow he became a fierce killing machine. ",
+  "ko": "타이터스 대니얼스는 스타이너 가문을 위해 싸운 제22 스카이 레인저스의 중위였습니다. 타이터스는 연방 귀족의 아들이었습니다. 그는 명예 문제로 동료 장교에게 중상을 입힌 뒤 제22연대로 재배치되었습니다. 메크 밖에서는 수줍고 자신감이 없었지만, 롱보우의 조종간을 잡으면 사나운 살인 기계가 되었습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "84C7866D433CC730927B62A953F7C102"
+  ],
+  "en": "Two single heatsinks that fit into one slot, but using denser material their weight is increased by half.",
+  "ko": "한 슬롯에 들어가는 싱글 히트 싱크 두 개입니다. 다만 더 조밀한 소재를 사용해 무게가 절반만큼 늘어납니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "6DF338B14624D14AF6A5CEA43F390E4E"
+  ],
+  "en": "Unbound settings - if checked, there will be no checking for valid  settings for the current biome.\nYou can set sandstorm in a jungle, snow in a desert etc.\nExperimental, with unknown effects.",
+  "ko": "제한 해제 설정 - 체크하면 현재 바이옴에 유효한 설정인지 검사하지 않습니다.\\n정글에 모래폭풍을, 사막에 눈을 설정하는 식으로 지정할 수 있습니다.\\n실험적 기능이며 어떤 영향이 있을지 알 수 없습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FB2DFE2B4492A6DC0FCDAFA68531D582"
+  ],
+  "en": "Using 6 dynamic slots, Triple Strength Myomer replaces the standard musculature of the Mech and increases the top speed and melee damage at high heat levels. Over 50% heat, speed and melee damage will linearly increase to a maximum of +50% speed and +100% melee damage at 100% heat level. Stacks with SuperCharger. Not compatible with MASC.",
+  "ko": "동적 슬롯 6개를 사용하는 3배 강화 마이오머는 메크의 표준 근육을 대체하며, 열 수준이 높을 때 최고 속도와 근접 피해를 높입니다. 열이 50%를 넘으면 속도와 근접 피해가 선형으로 증가해, 열 수준 100%에서 최대 속도 +50%, 근접 피해 +100%에 이릅니다. 슈퍼차저와 중첩됩니다. MASC와는 호환되지 않습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "87747CF24F03C23233BB9AACE2F28359"
+  ],
+  "en": "Using the newest technology available at the end of the FedCom Civil War, a 300 rated Light Fusion Engine gives the -1P average speed for an assault 'Mech. A Rotary AC/2 and Rotary AC/5 in each arm provides devastating firepower, in the event the 2 tons of RAC/2 and 3 tons of RAC/5 ammo run dry, 4 Medium Lasers split among the side torsos and a center torso-mounted Snub-Nose PPC allows the -1P to continue providing fire support. 16 double heat sinks provide adequate dissipation.",
+  "ko": "페드컴 내전 말기에 쓸 수 있던 최신 기술을 사용한 -1P는 300등급 라이트 핵융합 엔진 덕분에 강습 메크로서 평균적인 속도를 냅니다. 양팔에 로터리 AC/2와 로터리 AC/5를 하나씩 장착해 파괴적인 화력을 제공하며, RAC/2 탄약 2톤과 RAC/5 탄약 3톤이 바닥나더라도 측면 동체에 나뉘어 달린 중형 레이저 4문과 중앙 동체의 스너브-노즈 PPC로 화력 지원을 계속할 수 있습니다. 더블 히트 싱크 16개가 충분한 방열 능력을 제공합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "BD0E90C34325F438DBCDFAA5B00133DB"
+  ],
+  "en": "When enabled, Mech can be rotated\naround in the weapons view like in\nthe painter or mech management\nby grabbing it with the mouse and dragging",
+  "ko": "이 옵션을 켜면 도색 화면이나\\n메크 관리 화면처럼 무기 보기에서\\n메크를 마우스로 잡고 끌어\\n회전시킬 수 있습니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "010549FC41A221908BB931A0CE7F5657",
+   "ADC9907D45B452166CF2598447A83D61"
+  ],
+  "en": "When piloting this mech, 10% boost to top speed, reverse speed, torso twist and turn speed.",
+  "ko": "이 메크를 조종하면 최고 속도, 후진 속도, 동체 회전 및 선회 속도가 10% 증가합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "564794164A5061FC351C798DF98EEAB3"
+  ],
+  "en": "When the mighty @Yrrot, greatest Mech Commander of all saw the Atlas-II, he said \"it needs more dakka.\" And so, the Atlas-II Yrrot was born.",
+  "ko": "가장 위대한 메크 지휘관인 @Yrrot이 아틀라스 II를 보고 말했습니다. \"화력이 더 필요해.\" 그렇게 아틀라스 II Yrrot이 탄생했습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D4F3EE50411A935E0EC5C7BE1D932173",
+   "E27970CB4E8B73C37CC926876767A035"
+  ],
+  "en": "When the procurement officer outlined requirements for ?a mobile ?Mech with enough firepower to destroy or severely damage any ?Mech of the same weight class or lower\", StarCorps Industries responded in 2515 with the aptly named Warhammer. Serving ably in the ranks of the Star League, the Warhammer formed the backbone of several heavy regiments. The Warhammer supplements its devastating long-range capabilities with a host of medium and short-range weapons.",
+  "ko": "조달 담당관이 \"같은 체급 이하의 어떤 메크든 파괴하거나 심각한 손상을 입힐 만한 화력을 갖춘 기동성 있는 메크\"라는 요구 조건을 제시하자, 스타코프스 인더스트리즈는 2515년 그 이름에 걸맞은 워해머로 응답했습니다. 성간 연대의 대열에서 훌륭히 복무한 워해머는 여러 중장 연대의 중추를 이루었습니다. 워해머는 파괴적인 장거리 능력을 다수의 중·단거리 무기로 보완합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "FC979A49406964DFA414B3A1211787F7"
+  ],
+  "en": "With new recycle facilities to fabricate and refit armor panels the mechanics crew is able to refit older armor plates for a discount rather than having to buy new panels every time. This does not effect repair costs though as that requires new armor every time. Thankfully this does save some of those precious refit costs for other things like cockpit bling! \n\nReduces Refit cost of Armor by 20%",
+  "ko": "장갑판을 제작하고 개수하는 새 재활용 설비가 생겨, 정비반은 매번 새 장갑판을 사는 대신 오래된 장갑판을 할인된 비용으로 개수할 수 있습니다. 다만 수리에는 매번 새 장갑이 필요하므로 수리 비용에는 영향이 없습니다. 그래도 덕분에 귀한 개수 비용을 아껴 조종석 장식 같은 다른 데 쓸 수 있습니다! \\n\\n장갑 개수 비용이 20% 감소합니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "CF1FDC5642536AB2EC2AD583E2AF4B2A"
+  ],
+  "en": "With unequaled precision and speed for its 80 ton weight class, Danielle Peterson's Awesome, 'Pretty Baby', is the master of hard hitting, front line combat. Easily outstripping other variants in both top speed and maneuverability, even veteran pilots are caught by surprise. By 3015, dozens of enemy pilots had been outflanked and outmaneuvered by the Awesome with the pretty paint job, leaving their charred remains as a testament to their hubris.",
+  "ko": "80톤급에서 비할 데 없는 정밀함과 속도를 지닌 대니엘 피터슨의 어썸 '프리티 베이비'는 강력한 타격을 주고받는 최전선 전투의 달인입니다. 최고 속도와 기동성 모두에서 다른 파생형을 가볍게 앞질러, 베테랑 파일럿조차 허를 찔립니다. 3015년까지 수십 명의 적 파일럿이 이 예쁜 도색의 어썸에게 측면을 내주고 기동에서 밀렸으며, 그들의 새까맣게 탄 잔해가 오만함의 증거로 남았습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "22CEFA1B4710D9A17DE43A883F90BE04"
+  ],
+  "en": "Write a list of all weapons in the game to the provided folder.\nOnly base versions of the weapons will be listed, ie. only tier 1 weapons.\n\nExample:\nlistweapons /path/to/folder\nlistweapons D:\\mw5export",
+  "ko": "게임의 모든 무기 목록을 지정한 폴더에 저장합니다.\\n무기의 기본 버전, 즉 1등급 무기만 나열됩니다.\\n\\n예시:\\nlistweapons /path/to/folder\\nlistweapons D:\\mw5export"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "5A9B76D84BB069AA5AD8A583E67A2C60"
+  ],
+  "en": "Wtite a markdown-formatted list of all equipment in the game to the given folder.\n\nExample:\nlistequipment /path/to/folder\nlistequipment D:\\mw5export",
+  "ko": "게임의 모든 장비 목록을 마크다운 형식으로 지정한 폴더에 저장합니다.\\n\\n예시:\\nlistequipment /path/to/folder\\nlistequipment D:\\mw5export"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "76C1A297403C19DA0EE0F4BB89527CE0"
+  ],
+  "en": "Wtite a markdown-formatted list of all mech variants and quirks in the game to the given folder. Two files will be written:\n- yaml-mechs.md\n- yaml-quirks.md\n\nExample:\nlistmechs /path/to/folder\nlistmechs D:\\mw5export",
+  "ko": "게임의 모든 메크 파생형과 쿼크 목록을 마크다운 형식으로 지정한 폴더에 저장합니다. 파일 두 개가 생성됩니다:\\n- yaml-mechs.md\\n- yaml-quirks.md\\n\\n예시:\\nlistmechs /path/to/folder\\nlistmechs D:\\mw5export"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "326BBE9E45B5CACE59EAD7A51771E61E",
+   "D5940A1F4AF9E61A995507A4CA4DDB6A"
+  ],
+  "en": "XL engines weigh 50% less than standard engines (not including Gyro, etc.). XL engines require 3 free slots in each side torso. Losing a side torso will result in DEATH.",
+  "ko": "XL 엔진은 표준 엔진보다 50% 가볍습니다(자이로 등 제외). XL 엔진은 각 측면 동체에 빈 슬롯 3개가 필요합니다. 측면 동체 하나를 잃으면 사망합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "435FF0A14987BF333094A68CF18A37D6",
+   "2BCD82244E4DF758A3ECD188C4F9B18A"
+  ],
+  "en": "XXL engines weigh 75% less than standard engines (not including Gyro, etc.). XXL engines require 6 free slots in each side torso, and generate heat (lower heat dissipation) even when the mech is not moving, and generate twice as much heat during movement as other engines. Losing a side torso will result in DEATH.",
+  "ko": "XXL 엔진은 표준 엔진보다 75% 가볍습니다(자이로 등 제외). XXL 엔진은 각 측면 동체에 빈 슬롯 6개가 필요하고, 메크가 움직이지 않을 때도 열을 발생시키며(방열 능력 감소), 이동 중에는 다른 엔진보다 두 배의 열을 발생시킵니다. 측면 동체 하나를 잃으면 사망합니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "0C876B944B3227A7FEF61A94A774C692"
+  ],
+  "en": "YAML: ver {ver} build {build}\nPlanet Mechlab Level: {mechlablvl}\nMechlab Permission Level: {allowedlevel}",
+  "ko": "YAML: 버전 {ver} 빌드 {build}\\n행성 메크랩 레벨: {mechlablvl}\\n메크랩 권한 레벨: {allowedlevel}"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "20181D354184778F9A01C4BD6F03ADA6"
+  ],
+  "en": "Yet Another\nWeapon Mod\nActive.\nStats shown\ninclude global\noverrides.",
+  "ko": "Yet Another\\nWeapon 모드가\\n활성 상태입니다.\\n표시되는 수치에는\\n전역 재정의 값이\\n포함됩니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "7733445741F5A7131B9F4BB9F76D3613"
+  ],
+  "en": "Yet Another Mechlab is now processing all assets of the game (vanilla, DLC and mods).\nDepending on your computer's performance, this may take anything from a few seconds to a few minutes.\n\nThis is a \"Run Once\" process per game startup.\n\nMore assets (weapons, equipment and 'Mechs) will increase this delay.\n\nInstall Bobbert's Mod Options mod from Nexus to access many settings not available otherwise.\nhttps://www.nexusmods.com/mechwarrior5mercenaries/mods/537\n\nIf you experience problems, join our Discord and we will be happy to help you.\nhttps://discord.gg/YetAnotherMW5Server\n\nDon't forget to turn off Ray Tracing (because it's bugged and causes crashes) and update DLSS dll if you use it.",
+  "ko": "Yet Another Mechlab이 지금 게임의 모든 에셋(바닐라, DLC, 모드)을 처리하고 있습니다.\\n컴퓨터 성능에 따라 몇 초에서 몇 분까지 걸릴 수 있습니다.\\n\\n이 과정은 게임을 시작할 때마다 \"한 번만\" 실행됩니다.\\n\\n에셋(무기, 장비, 메크)이 많을수록 이 지연 시간이 길어집니다.\\n\\nNexus에서 Bobbert's Mod Options 모드를 설치하면 다른 방법으로는 접근할 수 없는 여러 설정을 사용할 수 있습니다.\\nhttps://www.nexusmods.com/mechwarrior5mercenaries/mods/537\\n\\n문제가 생기면 저희 디스코드에 참여해 주세요. 기꺼이 도와드리겠습니다.\\nhttps://discord.gg/YetAnotherMW5Server\\n\\n레이 트레이싱을 끄고(버그가 있어 충돌을 일으킵니다), DLSS를 사용한다면 DLSS dll을 업데이트하는 것도 잊지 마세요."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "D764E99A48C9505BEDED4C83F6C9722A"
+  ],
+  "en": "Yet Another Mechlab provides a set of settings for your Campaign or Career which mostly change the financial gameplay. You can either breeze through with millions to spare or hardly be able to install Endo on your new Locust.\nThese settings can be changed at any point during the game. ",
+  "ko": "Yet Another Mechlab은 캠페인 또는 커리어에 적용되는 여러 설정을 제공하며, 대부분 재정 운영에 영향을 줍니다. 수백만 C-빌을 남기며 수월하게 진행할 수도 있고, 새로 얻은 로커스트에 엔도를 설치하는 것조차 버거울 수도 있습니다.\\n이 설정은 게임 중 언제든지 변경할 수 있습니다."
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "272DF6F64E78CB84FA5CBA98C5AE5E8B"
+  ],
+  "en": "You will not be able to access most of this mod's settings. Please install and activate now.\nClick here to open the Nexus page",
+  "ko": "이 모드의 설정 대부분에 접근할 수 없습니다. 지금 설치하고 활성화해 주세요.\\n여기를 클릭하면 Nexus 페이지가 열립니다"
+ },
+ {
+  "mods": [
+   "YetAnotherMechlab"
+  ],
+  "keys": [
+   "21C18CFC48A3F4E989B80ABD71DE5B30"
+  ],
+  "en": "{ItemName} upgraded to {NewTier} for {OriginalItem} and {ItemPrice} CB.",
+  "ko": "{OriginalItem}와(과) {ItemPrice} CB를 사용해 {ItemName}을(를) {NewTier}(으)로 업그레이드했습니다."
+ },
+ {
+  "mods": [
+   "ModOptions"
+  ],
+  "keys": [
+   "FA554DBA4AF36D26CE7579A92FE8D22B"
+  ],
+  "en": "Only sets the CURRENTmod's options to default, hit apply after",
+  "ko": "현재 모드의 옵션만 기본값으로 되돌립니다. 이후 적용을 누르세요"
+ }
+]
