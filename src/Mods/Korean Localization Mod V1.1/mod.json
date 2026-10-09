@@ -1,13 +1,13 @@
 {
-   "displayName": "Korean Localization_V1.1",
-   "version": "1.1",
-   "buildNumber": 44,
-   "description": "\ud55c\uae00\ud328\uce58 V1.1 - DLC9 (Ashes & Ascension) \ub300\uc751\r\nKorean Localization_V1.1 - updated for DLC9 / game version 1.15.398\r\n\r\n\ubcc0\uacbd\uc810\r\n\uac8c\uc784 1.15.398 \uae30\uc900\uc73c\ub85c \uc5b8\uc5b4 \ud30c\uc77c\uc744 \uc7ac\uad6c\uc131\ud558\uace0 DLC9 \ucea0\ud398\uc778, \uc2e0\uaddc \uba54\ud06c/\ubb34\uae30, \ud30c\uc77c\ub7ff \ud2b9\uc131 \ubb38\uc790\uc5f4\uc744 \ucd94\uac00 \ubc88\uc5ed\ud588\uc2b5\ub2c8\ub2e4.\r\n\r\nkorean Localization URL\r\nhttps://gall.dcinside.com/mgallery/board/view/?id=mwo&no=3619&page=1\r\n\r\nThanks for Help Translation\r\n[DCInside BattleMech - MechWarrior Gallary]\r\n\r\nSpecial Thanks: et",
-   "author": "Tari_Tomo",
-   "authorURL": "https://github.com/angel606k/Mechwarrior-5-Korean-Localization",
-   "defaultLoadOrder": 0,
-   "gameVersion": "1.15.398",
-   "manifest": [
+   "displayName" : "Korean Localization_V1.1",
+   "version" : "1.0",
+   "buildNumber" : 32,
+   "description" : "\uD55C\uAE00\uD328\uCE58 \uD14C\uC2A4\uD2B8 \uBC84\uC804 V1.1\r\nKorean Localization_V1.1\r\n\r\n\uBCC0\uACBD\uC810\r\n\uC774\uC81C Github\uC5D0\uC11C \uC5B8\uC5B4\uD30C\uC77C\uC744 \uB2E4\uC6B4\uB85C\uB4DC \uD558\uC9C0 \uC54A\uC544\uB3C4 \uCD5C\uC2E0\uBC84\uC804\uC73C\uB85C \uC5B8\uC5B4\uD30C\uC77C\uC774 \uC5C5\uB370\uC774\uD2B8 \uB429\uB2C8\uB2E4.\r\n\r\n\r\nkorean Localization URL\r\nhttps://gall.dcinside.com/mgallery/board/view/?id=mwo&no=3619&page=1\r\n\r\n\u203B Please Help Translate Work!! \u203B\r\n\r\n\u203B Please Help Translate Work!! \u203B\r\n\r\nVersion 1.1\r\n\r\nThanks for Help Translation\r\n[DCInside BattleMech - MechWarrior Gallary]\r\n\r\nSpecial Thanks: et",
+   "author" : "Tari_Tomo",
+   "authorURL" : "https://github.com/angel606k/Mechwarrior-5-Korean-Localization",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
       "/Game/InnerSphereData/sername.uasset",
       "/Game/UI/Font/Futura/Futura_Book.uasset",
       "/Game/UI/Font/Futura/Futura_Heavy.uasset",
@@ -17,7 +17,7 @@
       "/Game/UI/Font/Roboto_Condensed/RobotoCondensed-Bold.uasset",
       "/Game/UI/Font/Roboto_Condensed/RobotoCondensed-Regular.uasset"
    ],
-   "steamPublishedFileId": 0,
-   "steamLastSubmittedBuildNumber": 0,
-   "steamModVisibility": "Private"
+   "steamPublishedFileId" : 2518884137,
+   "steamLastSubmittedBuildNumber" : 31,
+   "steamModVisibility" : "Private"
 }
