@@ -20,16 +20,16 @@
 <!-- #### 모든 수정사항은 [여기](./version_history.md) 에서 확인이 가능합니다. -->
 
 
-## DLC9 (Ashes & Ascension) 대응 - 게임 버전 1.15.398
-- 언어 파일(`ko-KR`, `ko-KP`)을 게임 1.15.398의 영문 원본 기준으로 재구성했습니다. (47,065개 항목)
-- 기존 번역 38,142개는 그대로 유지하고, 문자열 테이블로 이동된 항목 801개는 기존 번역을 재사용했습니다.
-- DLC9 캠페인 브리핑/대사/시네마틱 자막, 신규 메크 설명, 신규 무기·장비, 파일럿 특성·쿼크, 인물명 등 1,881개 항목(고유 문장 1,360개)을 새로 번역했습니다.
-  - 추가 번역 원문/번역문 목록: [`translations/DLC9_1.15.398_additions.json`](./translations/DLC9_1.15.398_additions.json)
-- 항성계 이름, 메크 섀시/파생형 이름, 무작위 파일럿 성씨는 기존 패치와 같이 영문으로 둡니다.
-- 다른 모드와 함께 쓸 때 임무 문구가 영문으로 나오는 문제 대응: YAML, DelayedDeadlines, TTRulez AI Mod, ModOptions, MarketplaceQOL이 게임 문구를 자체 키로 다시 담고 있어 번역이 연결되지 않던 1,282개 키를 언어 파일에 추가했습니다. (영문이 게임 원문과 같은 문구에 한해 기존 번역을 재사용, 모드 고유 문구는 미번역)
-- `tools/cityhash.py` : 언어 파일 v3의 네임스페이스/키 해시(CityHash64) 계산 모듈
-- 원본 호환: 원본 패치(20260530)의 39,045개 키를 모두 포함합니다. 현재 게임에서 사라진 키 759개도 그대로 유지하며, 게임 원문이 바뀐 146개 키만 원문 해시를 갱신했습니다. `mod.json`(워크샵 ID 등)과 폰트·EULA 파일은 원본 그대로입니다.
+## 이 포크에 대하여 - 모드 병용 대응판
+[원본 저장소](https://github.com/angel606k/Mechwarrior-5-Korean-Localization)의 20261009판(DLC Ashes and Ascension 대응)을 그대로 바탕으로 하고, 다른 모드와 함께 쓸 때 문장이 영문으로 나오는 문제만 보완한 포크입니다.
+- 원본 20261009의 47,065개 문장은 번역문을 하나도 바꾸지 않았습니다.
+- 모드가 게임 문구를 다른 키로 담고 있어 번역이 연결되지 않던 1,284개 키를 추가했습니다. (YetAnotherMechlab 1,158 / TTRulez_AIMod2 60 / DelayedDeadlines 32 / ModOptions 31 / MarketplaceQOL 3)
+- 게임 에셋에는 있지만 공식 언어 파일에 없는 373개 키를 추가했습니다.
+- 추가한 키의 번역문은 영문이 같은 원본 번역을 재사용했습니다. 모드 고유 문구는 번역하지 않았습니다.
+- 에셋과 언어 파일의 원문이 어긋난 2개 키의 원문 해시를 에셋 기준으로 맞췄습니다.
+- `mod.json`, 폰트, EULA 파일은 원본 그대로입니다.
 - `tools/locres.py` : UE4 `.locres` (v0~v3) 읽기/쓰기용 파이썬 모듈
+- `tools/cityhash.py` : 언어 파일 v3의 네임스페이스/키 해시(CityHash64) 계산 모듈
 
 ## ※멕워리어5 한글패치 참여방법
 ### [멕워리어5 한글패치 스프레드시트](https://docs.google.com/spreadsheets/d/1wsApuxcBJIi7p4p7p4AkVqx9v3-axuONpd8sKDd26Rg/edit#gid=0)
