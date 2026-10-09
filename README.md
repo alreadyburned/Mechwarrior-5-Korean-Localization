@@ -26,6 +26,8 @@
 - DLC9 캠페인 브리핑/대사/시네마틱 자막, 신규 메크 설명, 신규 무기·장비, 파일럿 특성·쿼크, 인물명 등 1,881개 항목(고유 문장 1,360개)을 새로 번역했습니다.
   - 추가 번역 원문/번역문 목록: [`translations/DLC9_1.15.398_additions.json`](./translations/DLC9_1.15.398_additions.json)
 - 항성계 이름, 메크 섀시/파생형 이름, 무작위 파일럿 성씨는 기존 패치와 같이 영문으로 둡니다.
+- 다른 모드와 함께 쓸 때 임무 문구가 영문으로 나오는 문제 대응: YAML, DelayedDeadlines, TTRulez AI Mod, ModOptions, MarketplaceQOL이 게임 문구를 자체 키로 다시 담고 있어 번역이 연결되지 않던 1,282개 키를 언어 파일에 추가했습니다. (영문이 게임 원문과 같은 문구에 한해 기존 번역을 재사용, 모드 고유 문구는 미번역)
+- `tools/cityhash.py` : 언어 파일 v3의 네임스페이스/키 해시(CityHash64) 계산 모듈
 - `tools/locres.py` : UE4 `.locres` (v0~v3) 읽기/쓰기용 파이썬 모듈
 
 ## ※멕워리어5 한글패치 참여방법
